@@ -1,186 +1,385 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/130368380-37b7c0cd-ed71-4a52-8b16-4ac802e059d4.png">
   <br />
- Digital Signal Processing(DSP) Guide
+ AR/VR Guide
 </h1>
 
-#### A guide covering Digital Signal Processing(DSP) including the applications, libraries and tools that will make you a better and more efficient  Digital Signal Processing(DSP) development.
+#### A guide covering Augmented Reality (AR) & Virtual Reality (VR) including the applications, libraries and tools that will make you a better and more efficient Augmented Reality (AR) & Virtual Reality (VR) development.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/130368382-d4d693b1-263d-438c-988a-989d2454c712.png">
   <br />
 </p>
 
 
 # Table of Contents
 
-1. [Digital Signal Processing(DSP) Learning Resources](https://github.com/mikeroyal/DSP-Guide#Digital-Signal-Processing-DSP-learning-resources)
+1. [Augmented Reality (AR) & Virtual Reality (VR) Learning Resources](https://github.com/mikeroyal/AR-VR-Guide#AR-VR-learning-resources)
 
-2. [Digital Signal Processing(DSP) Tools and Frameworks](https://github.com/mikeroyal/DSP-Guide#Digital-Signal-Processing-DSP-tools-and-frameworks)
+2. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/AR-VR-Guide#AR-VR-tools-and-frameworks)
 
-3. [Computer Vision Development](https://github.com/mikeroyal/DSP-Guide#computer-vision-development)
+3. [Vulkan Development](https://github.com/mikeroyal/AR-VR-Guide#vulkan-development)
 
-4. [Photogrammetry Development](https://github.com/mikeroyal/DSP-Guide#photogrammetry-development)
+4. [Metal Development](https://github.com/mikeroyal/AR-VR-Guide#metal-development)
 
-5. [LiDAR Development](https://github.com/mikeroyal/DSP-Guide#lidar-development)
+5. [DirectX Development](https://github.com/mikeroyal/AR-VR-Guide#directx-development)
 
-6. [Algorithms](https://github.com/mikeroyal/DSP-Guide#algorithms)
+6. [Computer Vision Development](https://github.com/mikeroyal/AR-VR-Guide#computer-vision-development)
 
-7. [Differential Equations](https://github.com/mikeroyal/DSP-Guide#differential-equations)
+7. [Photogrammetry Development](https://github.com/mikeroyal/AR-VR-Guide#photogrammetry-development)
 
-8. [Electric charge, field, and potential](https://github.com/mikeroyal/DPS-Guide#electric-charge-field-and-potential)
+8. [Autodesk Development](https://github.com/mikeroyal/AR-VR-Guide#autodesk-development)
 
-     - Charge and electric force (Coulomb's law): Electric charge, field, and potential
-     - Electric field: Electric charge, field, and potential
-     - Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
+9. [LiDAR Development](https://github.com/mikeroyal/AR-VR-Guide#lidar-development)
 
-9. [Circuits](https://github.com/mikeroyal/DPS-Guide#Circuits)
+10. [Game Development](https://github.com/mikeroyal/AR-VR-Guide#game-development)
 
-    - Ohm's law and circuits with resistors: Circuits
-    - Circuits with capacitors: Circuits
+11. [Linear Algebra](https://github.com/mikeroyal/AR-VR-Guide#linear-algebra)
 
-10. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/DPS-Guide#magnetic-forces-magnetic-fields-and-Faradays-law)
+12. [Algorithms](https://github.com/mikeroyal/AR-VR-Guide#algorithms)
 
-    - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
-    - Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
-    - Electric motors: Magnetic forces, magnetic fields, and Faraday's law
-    - Magnetic flux and Faraday's law
+13. [Machine Learning](https://github.com/mikeroyal/AR-VR-Guide#machine-learning)
 
-11. [Electromagnetic waves and interference](https://github.com/mikeroyal/DPS-Guide#electromagnetic-waves-and-interference)
+14. [CUDA Development](https://github.com/mikeroyal/AR-VR-Guide#cuda-development)
 
-    - Introduction to electromagnetic waves: Electromagnetic waves and interference
-    - Interference of electromagnetic waves
+15. [MATLAB Development](https://github.com/mikeroyal/AR-VR-Guide#matlab-development)
 
-12. [Machine Learning](https://github.com/mikeroyal/DSP-Guide#machine-learning)
+16. [C/C++ Development](https://github.com/mikeroyal/AR-VR-Guide#cc-development)
 
-13. [CUDA Development](https://github.com/mikeroyal/DSP-Guide#cuda-development)
 
-14. [OpenCL Development](https://github.com/mikeroyal/DSP-Guide#opencl-development)
+# Augmented Reality (AR) & Virtual Reality (VR) Learning Resources
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
-15. [MATLAB Development](https://github.com/mikeroyal/DSP-Guide#matlab-development)
+[Virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality) is a simulated experience that can be similar to or completely different from the real world. The applications of virtual reality include entertainment (video games), education (medical or military training) and business (virtual meetings).
 
-16. [C/C++ Development](https://github.com/mikeroyal/DSP-Guide#cc-development)
+[Augmented reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information.
 
+[Mixed reality (MR)](https://en.wikipedia.org/wiki/Mixed_reality) is the merging of real and virtual worlds to produce new environments and visualizations, where physical and digital objects co-exist and interact in real time.
 
-# Digital Signal Processing(DSP) Learning Resources
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Extended reality (XR)](https://en.wikipedia.org/wiki/Extended_reality) is a concept referring to all real-and-virtual combined environments and human-machine interactions generated by computer technology and wearables. Including augmented reality (AR), mixed reality (MR) and virtual reality (VR).
 
-[Digital Signal Processing (DSP)](https://en.wikipedia.org/wiki/Digital_signal_processing) is the application of a digital computer to modify an analog or digital signal. It's wadely used in many applications including video/audio/data communications and networking, medical imaging and computer vision, speech synthesis and coding, digital audio and video, and control of complex systems and industrial processes.
+[Virtual Reality - Experiences and Devices](https://www.microsoft.com/en-us/mixed-reality/windows-mixed-reality)
 
-[Learn Digital Signal Processing (DSP) | Udemy](https://www.udemy.com/course/learn-digital-signal-processing/)
+[Oculus | VR Headsets, Games & Equipment](https://www.oculus.com/)
 
-[Digital Signal Processing (DSP) From Ground Up™ in C | Udemy](https://www.udemy.com/course/digital-signal-processing-dsp-from-ground-uptm-in-c/)
+[Virtual Reality on Steam](https://store.steampowered.com/vr/)
 
-[Digital Signal Processing Courses | Coursera](https://www.coursera.org/specializations/digital-signal-processing)
+[Valve Index® VR Headset](https://store.steampowered.com/valveindex)
 
-[DSP - Digital Signal Processing - Intel® FPGA](https://www.intel.com/content/www/us/en/architecture-and-technology/programmable/digital-signal-processing/overview.html)
+[PlayStation VR](https://www.playstation.com/explore/playstation-vr/)
 
-[Digital Signal Processing | Stanford Online](https://online.stanford.edu/courses/ee264-digital-signal-processing)
+[HTC Vive VR Headset](https://www.vive.com/us/)
 
-[Digital Signal Processing | UC San Diego Extension](https://extension.ucsd.edu/courses-and-programs/digital-signal-processing)
+[Augmented Reality applications - Apple](https://www.apple.com/augmented-reality/)
 
-[Digital Signal Processing I Courses Online | Purdue](https://engineering.purdue.edu/online/courses/digital-signal-processing-i)
+[Unity Learn Training Program](https://learn.unity.com)
 
-[Digital Signal Processing | MIT OpenCourseWare](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/)
+[Unity Manual: XR](https://docs.unity3d.com/Manual/XR.html)
 
-[Creative Digital Signal Processing (DSP) for Music and Visuals](https://online.berklee.edu/courses/creative-digital-signal-processing-dsp-for-music-and-visuals)
+[Intro to XR: VR, AR, and MR Foundations - Unity Learn](https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations)
 
-[Digital Signal Processing Course | Prosoundtraining](https://www.prosoundtraining.com/digital-signal-processing/)
+[Unity XR: Build VR and AR Apps](https://unity3d.com/learn/unity-xr-apps)
 
+[Top Virtual Reality Courses Online | Udemy](https://www.udemy.com/topic/virtual-reality/)
 
-# Digital Signal Processing(DSP) Tools, Libraries and Frameworks
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Top Augmented Reality Courses Online | Udemy](https://www.udemy.com/topic/augmented-reality/)
 
-[DSP System Toolbox™](https://www.mathworks.com/products/dsp-system.html) is a tool that provides algorithms, apps, and scopes for designing, simulating, and analyzing signal processing systems in MATLAB® and Simulink®. You can model real-time DSP systems for communications, radar, audio, medical devices, IoT, and other applications. The DSP System Toolbox you can design and analyze FIR, IIR, multirate, multistage, and adaptive filters. You can stream signals from variables, data files, and network devices for system development and verification.
+[Google AR & VR Online Courses | Coursera](https://www.coursera.org/googlearvr)
 
-[Signal Processing Toolbox™](https://www.mathworks.com/products/signal.html) is a tool that provides functions and apps to analyze, preprocess, and extract features from uniformly and nonuniformly sampled signals. The toolbox includes tools for filter design and analysis, resampling, smoothing, detrending, and power spectrum estimation. The toolbox also provides functionality for extracting features like changepoints and envelopes, finding peaks and signal patterns, quantifying signal similarities, and performing measurements such as SNR and distortion.
+[Top Augmented Reality Courses | Coursera](https://www.coursera.org/courses?query=augmented%20reality)
 
-[Phased Array System Toolbox™](https://www.mathworks.com/products/phased-array.html) is a tool that provides algorithms and apps for designing and simulating sensor array and beamforming systems in wireless communication, radar, sonar, acoustic, and medical imaging applications. You can model and analyze the behavior of active and passive arrays, including subarrays and arbitrary geometries.
+[Learn Augmented Reality with Online Courses and Lessons | edX](https://www.edx.org/learn/augmented-reality)
 
-[Radar Toolbox™](https://www.mathworks.com/products/radar.html) is a tool that includes algorithms and tools for designing, simulating, analyzing, and testing multifunction radar systems. Reference examples provide a starting point for implementing airborne, ground-based, shipborne, and automotive radar systems.
+# Augmented Reality (AR) & Virtual Reality (VR) Tool and Frameworks
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
-[Audio Toolbox™](https://www.mathworks.com/products/audio.html) is a tool that provides tools for audio processing, speech analysis, and acoustic measurement. It includes algorithms for processing audio signals such as equalization and time stretching, estimating acoustic signal metrics such as loudness and sharpness, and extracting audio features such as MFCC and pitch. It also provides advanced machine learning models, including i-vectors, and pretrained deep learning networks, including VGGish and CREPE.
+[ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
 
-[Wavelet Toolbox™](https://www.mathworks.com/products/wavelet.html) is a tool that provides functions and apps for analyzing and synthesizing signals and images. The toolbox includes algorithms for continuous wavelet analysis, wavelet coherence, synchrosqueezing, and data-adaptive time-frequency analysis.
+[RealityKit](https://developer.apple.com/documentation/realitykit) is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.
 
-[Antenna Toolbox™](https://www.mathworks.com/products/antenna.html) is a tool that provides functions and apps for the design, analysis, and visualization of antenna elements and arrays. It can design standalone antennas and build arrays of antennas using predefined elements with parameterized geometry, arbitrary planar structures, or custom 3D structures described with STL files.
+[SceneKit](https://developer.apple.com/scenekit/) is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.
 
-[RF Toolbox™](https://www.mathworks.com/products/rftoolbox.html) is a tool that provides functions, objects, and apps for designing, modeling, analyzing, and visualizing networks of radio frequency (RF) components. It supports wireless communications, radar, and signal integrity applications.
+[GPUImage framework](https://github.com/BradLarson/GPUImage) is a BSD-licensed iOS library that lets you apply GPU-accelerated filters and other effects to images, live camera video, and movies. In comparison to Core Image (part of iOS 5.0), GPUImage allows you to write your own custom filters, supports deployment to iOS 4.0, and has a simpler interface. However, it currently lacks some of the more advanced features of Core Image, such as facial detection.
 
-[RF Blockset™](https://www.mathworks.com/products/rf-blockset.html) is a tool that  provides a Simulink® model library and simulation engine for designing RF communications and radar systems. The RF Blockset lets you simulate RF transceivers and front-ends. You can model nonlinear RF amplifiers to estimate gain, noise, even-order, and odd-order intermodulation distortion, including memory effects. For RF mixers, you can predict image rejection, reciprocal mixing, local oscillator phase noise, and DC offset.
+[GPUImage3](https://github.com/BradLarson/GPUImage3) is the third generation of the [GPUImage framework](https://github.com/BradLarson/GPUImage), an open source project for performing GPU-accelerated image and video processing on Mac and iOS. The original GPUImage framework was written in Objective-C and targeted Mac and iOS, the second iteration rewritten in Swift using OpenGL to target Mac, iOS, and Linux, and now this third generation is redesigned to use [Apple's Metal](https://developer.apple.com/metal/) in place of OpenGL.
 
-[Mixed-Signal Blockset™](https://www.mathworks.com/products/mixed-signal.html) is a tool that provides models of components and impairments, analysis tools, and test benches for designing and verifying mixed-signal integrated circuits (ICs).
+[ARCore](https://developers.google.com/ar/) is a software development kit developed by Google that allows for augmented reality applications in the real world. These tools include environmental understanding, which allows devices to detect horizontal and vertical surfaces and planes. It also includes motion tracking, which lets phones understand and track their positions relative to the world. Also ARCore’s Light Estimation API lets your digital objects appear realistically as if they’re actually part of the physical world.
 
-[SerDes Toolbox™](https://www.mathworks.com/products/serdes.html) is a tool that provides a MATLAB® and Simulink® model library and a set of analysis tools and apps for the design and verification of serializer/deserializer (SerDes) systems or high-speed memory PHYs such as DDR5.
+[Adobe Aero](https://www.adobe.com/products/aero.html) is a powerful new [augmented reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) authoring tool that makes it easier for designers to create immersive content.
 
-[Communications Toolbox™](https://www.mathworks.com/products/communications.html) is a tool that provides algorithms and apps for the analysis, design, end-to-end simulation, and verification of communications systems. Toolbox algorithms including channel coding, modulation, MIMO, and OFDM enable you to compose and simulate a physical layer model of your standard-based or custom-designed wireless communications system.
+[Vuforia](https://developer.vuforia.com/) is a comprehensive, scalable enterprise AR platform. Our wide-ranging solution suite ensures that we can provide the right AR technology to every customer based on their business needs.
 
-[WLAN Toolbox™](https://www.mathworks.com/products/wlan.html) is a tool that provides standards-compliant functions for the design, simulation, analysis, and testing of wireless LAN communications systems. It includes configurable physical layer waveforms for the IEEE® 802.11 family of standards. It also provides transmitter, channel modeling, and receiver operations, including channel coding, modulation, spatial stream mapping, and MIMO receivers.
+[Vuforia Studio](https://www.ptc.com/en/products/vuforia/vuforia-studio) is a tool that allows anyone to create beautiful 3D augmented reality (AR) experiences in a matter of minutes with no coding required.
 
-[LTE Toolbox™](https://www.mathworks.com/products/lte.html) is a tool that provides standard-compliant functions and apps for the design, simulation, and verification of LTE, LTE-Advanced, and LTE-Advanced Pro communications systems. The system toolbox accelerates LTE algorithm and physical layer (PHY) development, supports golden reference verification and conformance testing, and enables test waveform generation.
+[OpenVX™](https://www.khronos.org/openvx/) is an open-source, royalty-free standard for cross platform acceleration of computer vision applications. OpenVX enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases such as face, body and gesture tracking, smart video surveillance, advanced driver assistance systems (ADAS), object and scene reconstruction, augmented reality, visual inspection, robotics and more.
 
-[5G Toolbox™](https://www.mathworks.com/products/5g.html) is a tool that provides standard-compliant functions and reference examples for the modeling, simulation, and verification of 5G New Radio (NR) communications systems. The toolbox supports link-level simulation, golden reference verification, conformance testing, and test waveform generation.
+[NVIDIA Flex](https://github.com/NVIDIAGameWorks/FleX) is a particle-based simulation library designed for real-time applications.
 
-[Satellite Communications Toolbox™](https://www.mathworks.com/products/satellite-communications.html) is a tool that provides standards-based tools for designing, simulating, and verifying satellite communications systems and links. The toolbox enables you to model and visualize satellite orbits and perform link analysis and access calculations.
+[ARToolKit](https://artoolkit.org) is a fast and modern open source tracking and recognition SDK which enables computers to see and understand more in the environment around them. It's built from the ground up using modern computer vision techniques.
 
-[Data Acquisition Toolbox™](https://www.mathworks.com/products/data-acquisition.html) is a tool that provides apps and functions for configuring data acquisition hardware, reading data into MATLAB® and Simulink®, and writing data to DAQ analog and digital output channels. The toolbox supports a variety of DAQ hardware, including USB, PCI, PCI Express®, PXI®, and PXI Express® devices, from National Instruments® and other vendors.
+[ARmedia](https://www.inglobetechnologies.com/ar-media/) is a plugin tool that makes it easy to develop and create AR experiences without coding.
 
-[Instrument Control Toolbox™](https://www.mathworks.com/products/instrument.html) is a tool that lets you connect MATLAB® directly to instruments such as oscilloscopes, function generators, signal analyzers, power supplies, and analytical instruments. The toolbox connects to your instruments via instrument drivers such as IVI and VXIplug&play or via text-based SCPI commands over commonly used communication protocols such as GPIB, VISA, TCP/IP, and UDP.
+[Kundan](https://www.kudan.io/) is a tool that provides proprietary Artificial Perception technologies based on SLAM to enable use cases with significant market potential and impact on our lives such as autonomous driving, robotics, AR/VR and smart cities.
 
-[Embedded Coder®](https://www.mathworks.com/products/embedded-coder.html) is a tool that generates readable, compact, and fast C and C++ code for embedded processors used in mass production. It extends MATLAB Coder™ and Simulink Coder™ with advanced optimizations for precise control of the generated functions, files, and data. These optimizations improve code efficiency and facilitate integration with legacy code, data types, and calibration parameters.
-
-### DSP Tools & Protocols for Audio/Video
-
-[H.264(AVC)](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC) is a video compression standard based on block-oriented and motion-compensated integer-DCT coding that defines multiple profiles (tools) and levels (max bitrates and resolutions) with support up to 8K.
-
-[H.265(HEVC)](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) is a video compression standard that is the successor to H.264(AVC). It offers a 25% to 50% better data compression at the same level of video quality, or improved video quality at the same bit-rate.
-
-[FFmpeg](https://ffmpeg.org) is a leading multimedia framework that can decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge ones on multiple platforms such as Windows, macOS, and Linux.
-
-[HandBrake](https://handbrake.fr/) is a tool for transcoding video from almost any format with a selection of widely supported codecs. It is supported on Window, macOS, and Linux.
-
-[HTTP Live Streaming (HLS)](https://developer.apple.com/streaming/) is a communications protocol developed by Apple that sends live and on‐demand audio and video to iPhone, iPad, Mac, Apple Watch, Apple TV, and PC.
-
-[Dynamic Adaptive Streaming over HTTP (DASH)](https://developer.mozilla.org/en-US/docs/Web/HTML/DASH_Adaptive_Streaming_for_HTML_5_Video) is an adaptive streaming protocol that allows for a video stream to switch between bit rates on the basis of network performance, in order to keep a video playing.
-
-[OpenMAX™](https://www.khronos.org/openmax/) is a cross-platform API that provides comprehensive streaming media codec and application portability by enabling accelerated multimedia components to be developed, integrated and programmed across multiple operating systems and silicon platforms.
-
-[GStreamer](https://gstreamer.freedesktop.org/) is a library for constructing graphs of media-handling components. The applications it supports range from simple Ogg/Vorbis playback, audio/video streaming to complex audio (mixing) and video (non-linear editing) processing. Applications can take advantage of advances in codec and filter technology transparently.
-
-[Media Source Extensions (MSE)](https://www.w3.org/TR/media-source/) is a [W3C specification](https://github.com/w3c/media-source) that allows JavaScript to send byte streams to media codecs within Web browsers that support HTML5 video and audio. Also, this allows the implementation of client-side prefetching and buffering code for streaming media entirely in JavaScript.
-
-[WebRTC](https://webrtc.org/) is an open-source project that adds real-time communication capabilities to your application that works on top of an open standard. It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions.
-
-[Apple ProRes](https://support.apple.com/en-us/HT200321) is a codec technology developed by Apple for high-quality & high-performance editing in Final Cut Pro that supports up to 8K.
-
-[Logic Pro](https://www.apple.com/logic-pro/) is a digital audio workstation (DAW) and MIDI sequencer software application for macOS.
-
-[JACK Audio Connection Kit AKA JACK](https://jackaudio.org/) is a professional sound server daemon that provides real-time, low-latency connections for both audio and MIDI data between applications that implement its API. JACK can be configured to send audio data over a network to a main machine, which then outputs the audio to a physical device. This can be useful to mix audio from a number of connected computers without requiring additional cables or hardware mixers, and keeping the audio path digital for as long as possible.
-
-### Sensors
-
-[CCD(charge coupled device)](https://global.canon/en/technology/s_labo/light/003/04.html) is a semiconductor image sensor used in digital cameras to convert light into electrical signals. CCD Sensors are made up of tiny elements known as pixels with expressions such as 6 MP(megapixel) or 12 MP(megapixel) refering to the number of pixels comprising the CCD Sensors of a camera. With each pixel there is a tiny photodiode that is sensitive to light(photon) and becomes electrically charged in accordance with the strength of light it captures.
-
-[CMOS(Complementary Metal Oxide Semiconductor) sensors](https://global.canon/en/technology/s_labo/light/003/05.html) are semiconductor image sensors that convert light into electrical signals. It includes features such as timing logic, exposure control, analog-to-digital conversion, shuttering, white balance, gain adjustment, and initial image processing algorithms. CMOS sensors contain rows of photodiodes coupled with individual amplifiers to amplify the electric signal from the photodiodes. This not only enables CMOS sensors to operate on less electrical power than CCDs, but also enables speedier and easier reading of electrical charges at a relatively low-cost.
+[OVR Toolkit](https://store.steampowered.com/app/1068820/OVR_Toolkit/) is a utility application designed to make viewing the desktop in VR simple and fast, it allows for viewing the desktop within VR, placing desktop windows around the world, mouse input, typing with a virtual keyboard, and quickly switching between windows.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/126912536-fba83d70-3abb-464e-8ad6-1c109471a03f.png">
+<img src="https://user-images.githubusercontent.com/45159366/117720758-e843d300-b193-11eb-9796-bde15aebed71.png">
+<br />
+</p>
+
+Microsoft HoloLens Headset. Source: [Microsoft](https://www.microsoft.com/en-us/hololens/buy)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/117720763-e9750000-b193-11eb-888a-e4bccd6c30eb.png">
+<br />
+</p>
+
+PlayStation VR Headset. Source: [PlayStation](https://www.playstation.com/en-us/ps-vr/)
+
+[SteamVR](https://store.steampowered.com/steamvr) is the ultimate tool for experiencing VR content on the hardware of your choice. SteamVR supports the Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality headsets, and others.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/110881514-543db400-8295-11eb-9543-fd5d385ddb05.png">
+<br />
+
+SteamVR Home
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/117720776-ed088700-b193-11eb-8538-9831999b5104.png">
+<br />
+</p>
+Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveindex)
+
+
+[OpenVR](https://github.com/ValveSoftware/openvr) is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
+
+[OpenVR Benchmark on Steam](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.
+
+[OpenHMD](http://www.openhmd.net/) is open source API and drivers that supports a wide range of HMD(head-mounted display) devices such as Oculus Rift, HTC Vive, Sony PSVR, and others.
+
+[openXR](https://www.khronos.org/OpenXR/) is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices.
+
+[Monado](https://monado.dev/) is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.
+
+[Libsurvive](https://github.com/cntools/libsurvive) is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
+
+[Simula](https://github.com/SimulaVR/Simula) is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156)).
+
+# Vulkan Development
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
   <br />
 </p>
 
-**Sensors from Alps Alpine. Source: [Alps Alpine](https://tech.alpsalpine.com/e/category_sensor.html)**
+## Vulkan Learning Resources
+
+[Vulkan®](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.
+
+[Khronos Group GitHub](https://github.com/KhronosGroup)
+
+[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs)
+
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst)
+
+[Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
+
+[Getting Started with Vulkan](https://vulkan-tutorial.com/)
+
+[Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples)
+
+[Khronos Community Forums](https://community.khronos.org/)
+
+## Vulkan Tools, Libraries, and Frameworks
+
+[Vulkan SDK](https://vulkan.lunarg.com) is a set of tools that enables Vulkan developers to develop Vulkan applications.
+
+[SPIR-V](https://www.khronos.org/spir/) is a set of tools that enables high-level language front-ends to emit programs in a standardized intermediate form to be ingested by Vulkan, OpenGL or OpenCL drivers. It eliminates the need for high-level language front-end compilers in device drivers, significantly reducing driver complexity, enables a broad range of language and framework front-ends to run on diverse hardware architectures and encourages a vibrant ecosystem of open source analysis, porting, debug and optimization tools.
+
+[SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
+
+[Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
+
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+
+[Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
+
+[AMD Open Source Driver for Vulkan®](https://gpuopen.com/amd-open-source-driver-for-vulkan/) is an open-source Vulkan driver for AMD Radeon™ graphics adapters on Linux®.
+
+[NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
+
+[Radeon™ GPU Profiler](https://gpuopen.com/rgp/) is a performance tool that can be used by developers to optimize DirectX®12, Vulkan® and OpenCL™ applications for AMD RDNA™ and GCN hardware.
+
+[Radeon™ GPU Analyzer](https://gpuopen.com/rga/) is a compiler and code analysis tool for Vulkan®, DirectX®, OpenGL® and OpenCL™.
+
+[Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
+
+[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+
+[MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+[RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
+
+[PerfDoc](https://github.com/ARM-software/perfdoc) is a cross-platform Vulkan layer which checks Vulkan applications for [best practices on Arm Mali](https://developer.arm.com/graphics/developer-guides/mali-gpu-best-practices) devices.
+
+[GLFW](https://www.glfw.org/) is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc. GLFW natively supports Windows, macOS and Linux and other Unix-like systems. On Linux both X11 and Wayland are supported.
+
+[VulkanSharp](https://github.com/mono/VulkanSharp) is a project provides a .NET binding for the Vulkan API.
+
+[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
+
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+
+[ImGui](https://github.com/ocornut/imgui) is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+
+[Ash](https://github.com/MaikKlein/ash) is a very lightweight wrapper around Vulkan.
+
+[gfx-rs](https://github.com/gfx-rs/gfx) is a low-level, cross-platform graphics and compute abstraction library in Rust.
+
+[Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) is a lightweight wrapper around the Vulkan graphics and compute library. It exposes abstractions over the underlying C interface, primarily geared towards developers looking for a more natural way to work with Vulkan with minimal overhead.
+
+# Metal Development
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/126912537-82a856cb-9d4c-48a8-9d35-13a760198ddb.png">
+ <img src="https://user-images.githubusercontent.com/45159366/129622324-243aca6c-1feb-4b16-abef-70ad8b97f488.png">
   <br />
 </p>
 
-**Different Types of Sensors. Source: [electronicshub](https://www.electronicshub.org/different-types-sensors/)**
+## Metal Learning Resources
+
+[Metal](https://developer.apple.com/metal/) is a low-level API that provides a platform-optimized, low-overhead API for developing the latest 3D pro applications and amazing games using a rich shading language with tighter integration between graphics and compute programs. To help you do more while managing ever more complex shader code, Metal adds an unparalleled suite of advanced GPU debugging tools to help you realize the full potential of your graphics code.
+
+[Apple Developer Documentation](https://developer.apple.com/documentation)
+
+[MetalKit](https://developer.apple.com/documentation/metalkit/)
+
+[Metal Shading Language Specification](https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf)
+
+[Using Metal Feature Set Tables](https://developer.apple.com/documentation/metal/gpu_features/using_metal_feature_set_tables/)
+
+[Metal Performance Shaders](https://developer.apple.com/documentation/metalperformanceshaders/)
+
+[Optimizing Performance with the GPU Counters Instrument](https://developer.apple.com/documentation/metal/optimizing_performance_with_the_gpu_counters_instrument?language=objc)
+
+[Enabling Frame Capture](https://developer.apple.com/documentation/metal/frame_capture_debugging_tools/enabling_frame_capture?language=objc)
+
+[Reducing the Memory Footprint of Metal Apps](https://developer.apple.com/documentation/metal/reducing_the_memory_footprint_of_metal_apps)
+
+[Metal Developer Tools for Windows](https://developer.apple.com/download/release/)
+
+[Metal Sample code](https://developer.apple.com/metal/sample-code/)
+
+[Metal plugin for TensorFlow](https://developer.apple.com/metal/tensorflow-plugin/)
+
+[Metal Developer discussions](https://developer.apple.com/forums/tags/metal/)
+
+
+## Metal Tools, Libraries, and Frameworks
+
+[Apple Foundation Framework](https://developer.apple.com/documentation/foundation) is a framework provides a base layer of functionality for apps and frameworks, including data storage and persistence, text processing, date and time calculations, sorting and filtering, and networking. The classes, protocols, and data types defined by Foundation are used throughout the macOS, iOS, watchOS, and tvOS SDKs.
+
+[Apple Core Animation Framework](https://developer.apple.com/documentation/quartzcore) is a graphics rendering and animation infrastructure that provides high frame rates and smooth animations without burdening the CPU and slowing down your app.
+
+[Apple Core Graphics Framework](https://developer.apple.com/documentation/coregraphics)is a framework based on the Quartz advanced drawing engine. It provides low-level, lightweight 2D rendering with unmatched output fidelity.
+
+[Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The macOS operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
+
+[Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode 12 is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.
+
+[SwiftUI](https://developer.apple.com/documentation/swiftui) is a user interface toolkit that provides views, controls, and layout structures for declaring your app's user interface. The SwiftUI framework provides event handlers for delivering taps, gestures, and other types of input to your application.
+
+[UIKit](https://developer.apple.com/documentation/uikit) is a framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multi-Touch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app.
+
+[AppKit](https://developer.apple.com/documentation/appkit) is a graphical user interface toolkit that contains all the objects you need to implement the user interface for a macOS app such as windows, panels, buttons, menus, scrollers, and text fields, and it handles all the details for you as it efficiently draws on the screen, communicates with hardware devices and screen buffers, clears areas of the screen before drawing, and clips views.
+
+[ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
+
+[RealityKit](https://developer.apple.com/documentation/realitykit) is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.
+
+[SceneKit](https://developer.apple.com/scenekit/) is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.
+
+[Instruments](https://help.apple.com/instruments/mac/current/#/dev7b09c84f5) is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.
+
+[Cocoapods](https://cocoapods.org/) is a dependency manager for Swift and Objective-C used in Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project.
+
+[AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages.
+
+[MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+# DirectX Development
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/129622295-1bd0e123-57bb-4460-baab-8dbc8818052a.png">
+  <br />
+</p>
+
+# DirectX Learning Resources
+
+[Microsoft DirectX®](https://support.microsoft.com/en-us/topic/how-to-install-the-latest-version-of-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2) is a low-level API that handles tasks related to multimedia for game programming and video on Microsoft platforms(Windows & Xbox).
+
+[Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
+
+[Getting Started with the DirectX 12 Agility SDK](https://devblogs.microsoft.com/directx/gettingstarted-dx12agility/)
+
+[DirectX 12 and Graphics Education | YouTube](https://www.youtube.com/channel/UCiaX2B8XiXR70jaN7NK-FpA)
+
+[DirectX— Feature Level 12_2](https://devblogs.microsoft.com/directx/new-in-directx-feature-level-12_2/)
+
+[DirectX 12 Technology | NVIDIA](https://www.nvidia.com/en-us/geforce/technologies/dx12/)
+
+[AMD DirectX® 12 (DX12) Technology | AMD](https://www.amd.com/en/technologies/directx12)
+
+[Top Microsoft DirectX Courses Online | Udemy](https://www.udemy.com/topic/microsoft-directx/)
+
+[DirectX - Learn Microsoft DirectX from Scratch Course | Udemy](https://www.udemy.com/course/directx-learn-microsoft-directx-from-scratch/)
+
+[DirectX 11 Programming Course | Udemy](https://www.udemy.com/course/directx11/)
+
+## DirectX Tools, Libraries, and Frameworks
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
+
+[PIX on Windows](https://devblogs.microsoft.com/pix/documentation/) is a performance tuning and debugging tool for DirectX 12 games on Windows.
+
+[DirectStorage API](https://devblogs.microsoft.com/directx/directstorage-is-coming-to-pc/) is an API in the DirectX family originally designed for the [Velocity Architecture](https://news.xbox.com/en-us/2020/07/14/a-closer-look-at-xbox-velocity-architecture/) to Windows. The DirectX API is architected in a way that takes all this into account and maximizes performance throughout the entire pipeline from NVMe drive all the way to the GPU. It does this in several ways: by reducing per-request NVMe overhead, enabling batched many-at-a-time parallel IO requests which can be efficiently fed to the GPU, and giving games finer grain control over when they get notified of IO request completion instead of having to react to every tiny IO completion. The DirectStorage API will be available on [Windows 11](https://www.microsoft.com/en-us/windows/windows-11) PCs with NVMe SSDs, but will also be support in [Windows 10](https://www.microsoft.com/software-download/windows10) version 1909 and newer.
+
+[NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
+
+[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
+
+[RTXMU - RTX Memory Utility SDK](https://github.com/NVIDIAGameWorks/RTXMU) is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.
+
+[Radeon™ GPU Profiler](https://gpuopen.com/rgp/) is a performance tool that can be used by developers to optimize DirectX®12, Vulkan® and OpenCL™ applications for AMD RDNA™ and GCN hardware.
+
+[Radeon™ GPU Analyzer](https://gpuopen.com/rga/) is a compiler and code analysis tool for Vulkan®, DirectX®, OpenGL® and OpenCL™.
+
+[Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
+
+[FNA](https://fna-xna.github.io/) is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop.
+
+[FAudio](https://fna-xna.github.io/) is an XAudio reimplementation that focuses solely on developing fully accurate DirectX Audio runtime libraries for the FNA project, including [XAudio2](https://docs.microsoft.com/en-us/windows/win32/xaudio2/xaudio2-introduction), [X3DAudio](https://docs.microsoft.com/en-us/windows/win32/xaudio2/x3daudio-overview), [XAPO](https://docs.microsoft.com/en-us/windows/win32/xaudio2/xapo-overview), and [XACT3](https://en.wikipedia.org/wiki/Cross-platform_Audio_Creation_Tool).
+
+[Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
+
+[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+
+[RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
 # Computer Vision Development
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129494417-b0ee8192-ac41-4a6d-8e1d-4761ffc8bab1.png">
@@ -214,7 +413,6 @@
 [Visual Computing Graduate Program | Stanford Online](https://online.stanford.edu/programs/visual-computing-graduate-program)
 
 ## Computer Vision Tools, Libraries, and Frameworks
-[Back to the Top](https://github.com/mikeroyal/Computer-Vision-Guide#table-of-contents)
 
 [OpenCV](https://opencv.org) is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
 
@@ -261,7 +459,7 @@
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
 # Photogrammetry Development
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 ## Photogrammetry Learning Resources
 
@@ -339,8 +537,273 @@
 
 [Regard3D](https://www.regard3d.org/) is a free and open source structure-from-motion program. It converts photos of an object, taken from different angles, into a 3D model of this object.
 
+# Autodesk Development
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687186-060c4b00-d1ca-11eb-9e90-f51a3ebf4e43.png">
+  <br />
+</p>
+
+## Autodesk Learning Resources
+
+[Autodesk](https://www.autodesk.com/) is a global leader in design and make technology, with expertise across architecture, engineering, construction, design, manufacturing, and entertainment.
+
+[CNC programming (Computer Numerical Control Programming)](https://www.autodesk.com/solutions/cnc-programming) is utilized by manufacturers to create program instructions for computers to control a machine tool. CNC is highly involved in the manufacturing process and improves automation as well as flexibility.
+
+[AutoDesk Learning & Training](https://www.autodesk.com/training)
+
+[Autodesk Certification](https://www.autodesk.com/certification/overview)
+
+[Autodesk University](https://www.autodesk.com/autodesk-university/)
+
+[Autodesk Design Academy](https://academy.autodesk.com/)
+
+[Autodesk Customer Success Hub](https://customersuccess.autodesk.com)
+
+[Software and Services for Education | Autodesk Education](https://www.autodesk.com/education/home)
+
+[AutoDesk Forums](https://forums.autodesk.com)
+
+[AutoDesk Developer Network](https://www.autodesk.com/developer-network/overview)
+
+[Learning Civil 3D on Autodesk Knowledge Network](https://knowledge.autodesk.com/support/civil-3d/learn)
+
+[Top Autodesk Courses on Udemy](https://www.udemy.com/topic/autodesk/)
+
+[Top Autodesk Courses on Coursera](https://www.coursera.org/autodesk)
+
+[Top Autodesk Fusion 360 Courses on Coursera](https://www.coursera.org/courses?query=autodesk%20fusion%20360&page=1)
+
+
+## Autodesk Tools and Frameworks
+
+[AutoCAD®](https://www.autodesk.com/products/autocad/overview) is computer-aided design (CAD) software that architects, engineers, and construction professionals rely on to create precise 2D and 3D drawings. It also automates tasks such as comparing drawings, counting, adding blocks, creating schedules.
+
+[AutoCAD LT®](https://www.autodesk.com/products/autocad-lt/overview) is a powerful 2D computer-aided design (CAD) software that architects, engineers, construction professionals, and designers rely on to design, draft, and document with precise 2D geometry.
+
+[AutoCAD® Mobile App](https://www.autodesk.com/products/autocad-mobile/overview) is a mobile(smartphone or tablet) version of AutoCAD that has the core design and drafting tools. Work on your CAD drawings anytime, anywhere—even offline.
+
+[AutoCAD® Web App](https://www.autodesk.com/products/autocad-web-app/overview) is a web version of AutoCAD that can edit, create, share, and view CAD drawings in a web browser on any computer.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687196-0ad0ff00-d1ca-11eb-87d8-6a1e806dcd4c.png">
+  <br />
+</p>
+
+**AutoCAD® with Architecture toolset. Source: [Autodesk](https://www.autodesk.com/products/autocad/overview)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687204-13293a00-d1ca-11eb-806b-57a3526b0b75.png">
+  <br />
+</p>
+
+**AutoCAD® with  Mechanical toolset. Source: [Autodesk](https://www.autodesk.com/products/autocad/overview)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687201-10c6e000-d1ca-11eb-99b4-90dec581f163.png">
+  <br />
+</p>
+
+**AutoCAD® with Electrical toolset. Source: [Autodesk](https://www.autodesk.com/products/autocad/overview)**
+
+[Tinkercad®](https://www.tinkercad.com) is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything.
+
+[Revit®](https://www.autodesk.com/products/revit/overview) is a  BIM (Building Information Modeling) software to drive efficiency and accuracy across the project lifecycle, from conceptual design, visualization, and analysis to fabrication and construction.
+
+[AEC(Architecture, Engineering & Construction) Collection®](https://www.autodesk.com/collections/architecture-engineering-construction/overview) is a set of BIM and CAD tools for designers, engineers, and contractors that is supported by a cloud-based common data environment that facilitates project delivery from early-stage design through to construction.
+
+[Fusion 360®](https://www.autodesk.com/products/fusion-360/overview) is an integrated CAD, CAM, CAE, and PCB software application. It unifies design, engineering, electronics, and manufacturing into a single software platform.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687501-98f9b500-d1cb-11eb-807b-20d24da14fc1.png">
+  <br />
+</p>
+
+**Autodesk® Fusion 360. Source: [Autodesk](https://www.autodesk.com/products/fusion-360/features#)**
+
+[Fusion 360 with FeatureCAM®](https://www.autodesk.com/products/featurecam/overview) is a tool that gives you access to FeatureCAM Ultimate, PartMaker, Fusion 360, Fusion Team, and HSMWorks. With FeatureCAM CNC programming software uses manufacturing knowledge to intelligently make decisions, produce results, and remove repetitive processes.
+
+[Fusion 360 with Netfabb®](https://www.autodesk.com/products/netfabb/overview) is a software that offers a complete toolset for design and implementation for additive manufacturing. It streamlines workflows and automates processes around 3D print preparation. The software also includes access to Fusion 360, Fusion 360 Team, and additional capabilities through Fusion 360 Additive Extensions.
+
+[Fusion 360 Manage](https://www.autodesk.com/products/fusion-360-manage/overview) is a product lifecycle management platform that connects your people, processes, and data across departments and geographies. It gives you the flexibility to start today and expand tomorrow with PLM that adapts to your business.
+
+[Fusion Team](https://fusionteam.autodesk.com/) is a cloud-based coll tool that helps eliminate the inefficiencies that disparate tools create when working with your internal and external teams.
+
+[Fusion 360 with PowerInspect®](https://www.autodesk.com/products/powerinspect/overview) is a 3D measurement software offers a powerful way to inspect, validate, and manage quality for all measurement equipment. Now includes access to Fusion 360, Fusion 360 Team, and Fusion 360 – Machining Extension. PowerInspect includes comprehensive inspection tools that measure parts while they’re still in On Machine Verification (OMV). Machine tool probing helps you make informed scrap or rework decisions quickly.
+
+[Fusion 360 with PowerMill® CAM](https://www.autodesk.com/products/powermill/overview) is a software provides expert CNC programming strategies for complex 3 and 5-axis manufacturing. This includes access to Fusion 360 and advanced manufacturing capabilities through Fusion 360 extensions.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687213-1f14fc00-d1ca-11eb-931e-79c7c5c58ce9.png">
+  <br />
+</p>
+
+**CNC machining with Fusion 360 with PowerMill® CAM. Source: [Autodesk](https://www.autodesk.com/products/powermill/overview)**
+
+[Fusion 360 with PowerShape®](https://www.autodesk.com/products/powershape/overview) is a  manufacturing CAD software combines surface, solid, and mesh modeling to help prepare molds, dies, and other complex parts for manufacture. This includes access to Fusion 360 and Fusion 360 Team.
+
+[Autodesk PartMaker®](https://www.autodesk.com/solutions/manufacturing-software/swiss-machining) is a software that can produce CNC programs that drive main and sub-spindle machining operations. These can be used for turning, indexed and interpolated C-axis milling, Y-axis, and B-axis milling.
+
+[Robot Structural Analysis Professional](https://www.autodesk.com/products/robot-structural-analysis/overview) is a structural load analysis software that verifies code compliance and uses BIM-integrated workflows to exchange data with Revit. It can help you to create more resilient, constructible designs that are accurate, coordinated, and connected to BIM.
+
+[Revit LT™](https://www.autodesk.com/products/revit-lt/overview) is a software that provides the most cost-effective BIM (Building Information Modeling) solution, you can produce high-quality 3D architectural designs and documentation.
+
+[Maya®](https://www.autodesk.com/products/maya/overview) is a 3D computer animation, modeling, simulation, and rendering software that can create realistic effects from explosions to cloth simulation.
+
+[Maya LT™](https://www.autodesk.com/products/maya-lt/overview) is a game design software for indie game makers that can create and animate realistic-looking characters, props, and environments using the sophisticated 3D modeling and animation tools.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687226-2a682780-d1ca-11eb-9408-4b32ddc7d493.png">
+  <br />
+</p>
+
+**Autodesk® Maya. Source:[Autodesk](https://www.autodesk.com/products/maya/overview)**
+
+[3DS Max®](https://www.autodesk.com/products/3ds-max/overview) is a 3D modeling and rendering software for design visualization, games, and animation.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687233-3358f900-d1ca-11eb-8e9c-0cb68b16db0e.png">
+  <br />
+</p>
+
+**Autodesk® 3DS Max. Source:[Autodesk](https://www.autodesk.com/products/3ds-max/overview)**
+
+[Arnold](https://www.autodesk.com/products/arnold/overview) is an advanced Monte Carlo ray tracing(Global illumination) renderer that helps you work more efficiently.
+
+[ReCap™](https://www.autodesk.com/products/recap/overview) is a Pro 3D scanning software to transform the physical world into a digital asset. With reality capture data you can better understand and verify existing and as-built conditions to gain insights and make better decisions.
+
+[Flame®](https://www.autodesk.com/products/flame/overview) is a 3D VFX and finishing software provides powerful tools for 3D compositing, visual effects, and editorial finishing. An integrated, creative environment means faster compositing, advanced graphics, color correction, and more.
+
+[Mudbox®](https://www.autodesk.com/products/mudbox/overview) is a 3D digital painting and sculpting software that let's you sculpt and paint highly detailed 3D geometry and textures.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687228-2e944500-d1ca-11eb-894e-b55e15c35620.png">
+  <br />
+</p>
+
+**Autodesk® Mudbox. Source:[Autodesk](https://www.autodesk.com/products/mudbox/overview)**
+
+[Character Generator®](https://www.autodesk.com/products/character-generator/overview) is a powerful 3D design and animation tools, Character Generator offers artists a web-based laboratory to create fully rigged 3D characters for animation packages and game engines.
+
+[Smoke®](https://www.autodesk.com/products/smoke/overview) is a  video effects software helps production studios increase productivity by combining editing workflows with node-based compositing tools in a timeline-centered editing environment.
+
+[ShotGrid](https://www.autodesk.com/products/shotgrid/overview) formerly Shotgun Software, is software for creative project management software and review tools for film, TV, and games that streamlines workflows for creative studios.
+
+[Advance Steel®](https://www.autodesk.com/products/advance-steel/overview) is a 3D modeling software for steel detailing, design, fabrication, and construction. it connects engineers and detailers through a seamless design and detailing workflow between Advance Steel and Revit, you can reduce the time required to move from design to fabrication while simultaneously reducing errors along the way.
+
+[Media & Entertainment Collection®](https://www.autodesk.com/collections/media-entertainment/overview) is a collection that includes all of the tools you need to build a powerful and scalable 3D animation pipeline for complex simulations, effects, and rendering.
+
+[Civil 3D®](https://www.autodesk.com/products/civil-3d/overview) is a  civil engineering design software supports BIM (Building Information Modeling) with integrated features to improve drafting, design, and construction documentation.
+
+[Inventor®](https://www.autodesk.com/products/inventor/overview) is a  CAD software that provides professional-grade 3D mechanical design, documentation, and product simulation tools. Work efficiently with a powerful blend of parametric, direct, freeform, and rules-based design capabilities.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687217-24724680-d1ca-11eb-9768-0fbcba5a0d41.png">
+  <br />
+</p>
+
+**Autodesk® Inventor. Source:[Autodesk](https://www.autodesk.com/products/inventor/overview)**
+
+[Inventor® CAM](https://www.autodesk.com/products/inventor-cam/overview) is an integrated CAM software for Inventor that simplifies CNC programming processes. Such as the machining workflow with CAD-embedded 2.5-axis to 5-axis milling, turning, and mill-turn capabilities.
+
+[Inventor Nastran®](https://www.autodesk.com/products/inventor-nastran/overview) is a CAD-embedded finite element analysis software that delivers finite element analysis (FEA) tools for engineers and analysts. Simulation covers multiple analysis types, such as linear and nonlinear stress, dynamics, and heat transfer.
+
+[Inventor® Nesting](https://www.autodesk.com/products/inventor-nesting/overview) is a CAD-embedded, true-shape nesting tools for Inventor that helps you optimize yield from flat raw material. Easily compare nesting studies to optimize efficiency and reduce costs, and export 3D models or DXF™ files of the completed nest for cutting path generation.
+
+[Inventor Tolerance Analysis®](https://www.autodesk.com/products/inventor-tolerance-analysis/overview) is an CAD-embedded tolerance stackup analysis software that is designed to help Inventor users make more informed decisions while specifying manufacturing tolerances.
+
+[Product Design & Manufacturing Collection](https://www.autodesk.com/collections/product-design-manufacturing/overview) is an integrated set of professional-grade applications that connect everyone, from concept to production, with shared tools to streamline your product development process.
+
+[Navisworks®](https://www.autodesk.com/products/navisworks/overview) is a project review software to improve BIM (Building Information Modeling) coordination. That can combine design and construction data into a single model.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687230-2f2cdb80-d1ca-11eb-9bcf-5dc2fb858d7d.png">
+  <br />
+</p>
+
+**Autodesk® Navisworks. Source:[Autodesk](https://www.autodesk.com/products/navisworks/overview)**
+
+[BIM Collaborate](https://www.autodesk.com/products/bim-collaborate/overview) is cloud-based design collaboration and coordination software that connects AEC teams, helping you execute on design intent and deliver high-quality constructible models on a single platform.
+
+[BIM Collaborate Pro](https://www.autodesk.com/products/bim-collaborate/overview) is cloud-based design collaboration and coordination software that connects AEC teams, helping you execute on design intent and deliver high-quality constructible models on a single platform.
+
+[InfraWorks®](https://www.autodesk.com/products/infraworks/overview) is a conceptual design software lets architecture, engineering, and construction professionals model, analyze, and visualize infrastructure design concepts within the context of the built and natural environment—improving decision making and accelerating project approvals.
+
+[SketchBook®](https://www.autodesk.com/products/sketchbook/overview) is a drawing and painting software lets designers, architects, and concept artists sketch ideas quickly and create stunning illustrations.
+
+[Alias®](https://www.autodesk.com/products/alias-products/overview) is a product design software for sketching, concept modeling, surfacing, visualization. It can create and reuse templates across design and surfacing teams sharing surfacing language.
+
+[Assemble BIM Data](https://construction.autodesk.com/products/assemble/) is a tool that helps keep projects on track. Along with condition and connect BIM data to design reviews, estimating, change management, scheduling, work-in-place tracking, and more.
+
+[Autodesk® Forge](https://forge.autodesk.com) is a cloud-based developer platform from Autodesk. That let's you access design and engineering data in the cloud with the Forge platform. Whether you want to automate processes, connect teams and workflows, or visualize your data using Forge APIs.
+
+[Autodesk® Rendering](https://www.autodesk.com/products/rendering/overview) is a fast, high-resolution cloud rendering software that let's you produce stunning, high-quality renderings from designs and models with cloud rendering. This service uses cloud credits, which is a universal measure across Autodesk consumption-based cloud services to perform certain tasks in the cloud.
+
+[Autodesk® CFD](https://www.autodesk.com/products/cfd/overview) is a computational fluid dynamics simulation software that engineers and analysts use to intelligently predict how liquids and gases will perform. It helps to minimize the need for physical prototypes while providing deeper insight into fluid flow design performance.
+
+[Autodesk® Drive](https://www.autodesk.com/subscription/drive) is a way to securely store, preview, and share your 2D and 3D design data.
+
+[Autodesk® Viewer](https://www.autodesk.com/viewers) is a tool that supports most 2D and 3D files, including DWG, STEP, DWF, RVT, and Solidworks, and works with over 80 file types on any device. Get the feedback you need with Autodesk Viewer’s annotation and drawing tools for easy online collaboration.
+
+[Autodesk BIM 360®](https://www.autodesk.com/bim-360/) is a tool is part of the Autodesk Construction Cloud, connecting workflows, teams, and data to help you build better.
+
+[Autodesk® Build](https://construction.autodesk.com/products/autodesk-build/) is a construction management software for field execution and project management that empowers you to seamlessly collaborate and deliver construction projects on time, on budget.
+
+[Autodesk® Takeoff](https://construction.autodesk.com/products/autodesk-takeoff/) is a tool that helps you work with competitive bids that are generated from accurate estimates produced from integrated 2D takeoffs and 3D quantities.
+
+[BuildingConnected](https://www.buildingconnected.com) is the argest real-time construction network that connects owners and builders through an easy-to-use platform to streamline the bid and risk management process.
+
+[Bid Board Pro](https://www.buildingconnected.com/bid-board/) is a tool that helps you see all bid invites across your entire office or division from one place. Know what needs to get done, who’s responsible for it and when it’s due. Track project files, deadlines and more during each stage of the bidding process.
+
+[TradeTapp](https://www.buildingconnected.com/tradetapp/) is a tool that helps you significantly decrease the time it takes to analyze subcontractor risk, annually or for a specific project. Advanced risk profiles enable a streamlined process and offer financial benchmarking, key metric calculations, capacity recommendations and safety performance history.
+
+[Design Review](https://www.autodesk.com/products/design-review/overview) is a CAD viewer software lets you view, mark up, print, and track changes to 2D and 3D files for free—without the original design software. Work with a variety of file formats, including: DWF, DWFx, DWG, and DXF (requires installation of [free DWG TrueView software](https://www.autodesk.com/products/dwg/viewers)); Adobe PDF; as well as image file types such as.bmp, .jpg, .gif, .pcx, .pct, .png, .rlc, .tga, .tif, .mil, .cal, and more.
+
+[EAGLE](https://www.autodesk.com/products/eagle/overview) is electronic design automation (EDA) software that lets printed circuit board (PCB) designers seamlessly connect schematic diagrams, component placement, PCB routing, and comprehensive library content.
+
+[Fabrication ESTmep™, CADmep™, and CAMduct™](https://www.autodesk.com/products/fabrication/overview) is a software that provides an integrated set of tools for MEP specialty contractors to estimate, detail, and drive fabrication of mechanical building systems. Also, create high LOD models of piping, plumbing, or ductwork systems in AutoCAD using CADmep. Content libraries used in ESTmep, CADmep, and CAMduct can also be used in Revit to support BIM workflows. Available stand-alone or in the Architecture, Engineering & Construction Collection..
+
+[Formit](https://www.autodesk.com/products/formit/overview) is an architectural modeling software for BIM-based 3D sketching. The pro version of FormIt includes the tools in the FormIt app, plus Dynamo computation, and collaboration and analysis features.
+
+[Helius Composite](https://www.autodesk.com/products/helius-composite/overview) is a tool that can help you simulate the material behavior of compound components. Built-in solvers minimize the need to have secondary finite element analysis (FEA) software to analyze material characteristics more quickly.
+
+[Helius PFA](https://www.autodesk.com/products/helius-pfa/overview) is a progressive failure analysis software that predicts failure stages of composite materials. Helius PFA enables you to integrate composite and elastomeric material properties into your finite element analysis (FEA) program.
+
+[HSMWorks](https://www.autodesk.com/products/hsmworks/overview) is an ambedded CAM software for [SOLIDWORKS®](https://www.solidworks.com/) to design and generate CAM toolpaths without the hassle of changing software. Reduce cycle time and rework with CAD-embedded 2.5 to 5-axis milling, turning, and mill-turn capabilities. HSMWorks is included with your Fusion 360 subscription.
+
+[Insight](https://www.autodesk.com/products/insight/overview) is a building performance analysis software that empowers architects and engineers to design more energy-efficient buildings with advanced simulation engines and building performance analysis data integrated in Revit.
+
+[Moldflow®](https://www.autodesk.com/products/moldflow/overview) is a software tool that lets you troubleshoot problems with plastic injection and compression molding for design and manufacturing. Advanced tools and a simplified user interface help you address manufacturing challenges, such as part warpage, cooling channel efficiency, and cycle time reduction.
+
+[MotionBuilder®](https://www.autodesk.com/products/motionbuilder/overview) is a 3D character animation software. Work in an interactive environment optimized to help you work faster and more efficiently without compromising creativity.
+
+[PlanGrid Build](https://construction.autodesk.com/products/autodesk-plangrid-build/?pgr=1) is a Construction app built for the field. It allows you to complete tasks from anywhere on the jobsite with seamless access to Autodesk Build data, even when you’re offline.
+
+[Point Layout](https://www.autodesk.com/products/point-layout/overview) is a  construction layout software helps contractors and subcontractors bring model accuracy to the field and back. Connect models to layout and quality workflows. Get direct file format compatibility with robotic total station hardware, including Leica, Topcon, and Trimble.
+
+[Structural Bridge Design®](https://www.autodesk.com/products/structural-bridge-design/overview) is a bridge analysis software for small to medium-span bridges used by engineers to deliver design reports faster.
+
+[Vault®](https://www.autodesk.com/products/vault/overview) is a product data management (PDM) software helps streamline workflows. Everyone works from a central source of organized data—collaborating, reducing errors, and saving time.
+
+[Vehicle Tracking®](https://www.autodesk.com/products/vehicle-tracking/overview) is a swept path analysis and design software to facilitate parking lot layout, roundabout design, and other design challenges impacted by vehicle movement.
+
+[VRED®](https://www.autodesk.com/products/vred/overview) is a 3D visualization software helps automotive designers and engineers create product presentations, design reviews, and virtual prototypes using interactive GPU raytracing and both analytic and cloud-rendering modes.
+
+[Within Medical®](https://www.autodesk.com/products/within-medical/overview) is a 3D printing orthopedic implant design software that enables designers to create medical implants to aid osseointegration.
+
+[Pype](https://construction.autodesk.com/products/pype/) is a tool that helps you reduce project risk and strengthen client relationships by automating processes that are critical for owner satisfaction and contract compliance.
+
+[Pype Closeout](https://pype.io/closeout/) is a tool provides a single portal for closeout documentation management, with digital document collection from subcontractors and powerful reporting dashboards. With subcontractor outreach automated, the Closeout platform ensures contract compliance and helps you get paid faster.
+
+[Pype SmartPlans](https://pype.io/smartplans/) is a tool that locates and extracts all submittals from your uploaded plans automatically. Export product, equipment, and finish schedules into excel with a single click. SmartPlans’ powerful automation uses cutting edge artificial intelligence and machine learning to intelligently read your drawings to extract submittals and schedules.
+
+[CAMplete](https://www.autodesk.com/products/camplete/overview) is a software tool that  provides G-code post-processing, verification, and simulation for different kinds of CNC machinery. Import data from leading CAM software then use proven post-processors and highly accurate 3D machine models, developed in partnership with machine tool builders, to rapidly produce high-quality, collision free NC machining code.
+
+[Vault PLM](https://www.autodesk.com/products/vault-plm/overview) is a tool that combines Vault Professional with Fusion Lifecycle for enterprise-wide collaboration and product lifecycle management.
+
 # LiDAR Development
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/121950812-f5ae2900-cd0e-11eb-8989-9188bd18a68c.png">
@@ -417,8 +880,499 @@
 
 [USGS Lidar Base Specification(LBS) online edition](https://www.usgs.gov/core-science-systems/ngp/ss/lidar-base-specification-online)
 
+# Game Development
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
+  <br />
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279021-ea6b5000-bbdd-11eb-9f59-5251fc3ac751.png">
+  <br />
+</p>
+
+## Game Engines
+
+**[Checkout the Unity Engine](https://unity.com/)**
+
+<img src="https://user-images.githubusercontent.com/45159366/104788113-3432be00-5746-11eb-99b1-49360669f327.png">
+
+
+**[Checkout the Unreal Engine 4](https://www.unrealengine.com/)**
+
+<img src="https://user-images.githubusercontent.com/45159366/104788122-37c64500-5746-11eb-8f61-48a69b94582d.png">
+
+
+**[Checkout the CryEngine](https://www.cryengine.com/)**
+
+<img src="https://user-images.githubusercontent.com/45159366/104788177-680de380-5746-11eb-9fc2-6d6f0bdc0a82.png">
+
+
+**[Checkout the Godot Engine](https://godotengine.org/)**
+
+[If you would like to Donate to the Godot Project](https://www.patreon.com/godotengine)
+
+<img src="https://user-images.githubusercontent.com/45159366/104788134-3f85e980-5746-11eb-94c4-d97165ee888b.jpeg">
+
+
+**[Checkout Blender](https://www.blender.org/)**
+
+[If you would like to Donate to the Blender Project](https://fund.blender.org/)
+
+<img src="https://user-images.githubusercontent.com/45159366/104788139-401e8000-5746-11eb-9647-058dee01a00e.png">
+
+
+**[Checkout AWS Lumberyard(based on CryEngine)](https://aws.amazon.com/lumberyard/)**
+
+<img src="https://user-images.githubusercontent.com/45159366/104788145-43b20700-5746-11eb-82f1-1351c3b7e380.png">
+
+
+**[Checkout Game Maker Studio 2](https://www.yoyogames.com/gamemaker)**
+
+<img src="https://user-images.githubusercontent.com/45159366/104788147-44e33400-5746-11eb-879a-bc6239c98ce4.jpg">
+
+
+## Game Development Learning Resources
+
+[Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) is a free learning platform that offers hands-on video courses and guided learning paths.
+
+[Unreal Engine Authorized Training Program](https://www.unrealengine.com/en-US/training-partners)
+
+[Unreal Engine for education](https://www.unrealengine.com/en-US/education/)
+
+[Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
+
+[Unity Certifications](https://unity.com/products/unity-certifications)
+
+[Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
+
+[Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
+
+[Getting Started with Vulkan](https://www.khronos.org/vulkan/)
+
+[Getting Started with Apple Metal](https://developer.apple.com/metal/)
+
+[Game Design Online Courses from Udemy](https://www.udemy.com/courses/Design/Game-Design/)
+
+[Game Design Online Courses from Skillshare](https://www.skillshare.com/browse/game-design)
+
+[Learn Game Design with Online Courses and Classes from edX](https://www.edx.org/learn/game-design)
+
+[Game Design Courses from Coursera](https://www.coursera.org/courses?query=game%20design)
+
+[Game Design and Development Specialization Course from Coursera](https://www.coursera.org/specializations/game-development)
+
+## Game Development Tools
+
+[Unreal Engine](https://www.unrealengine.com) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.
+
+[Unity](https://unity.com) is a cross-platform game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers.
+
+[Unigine](https://unigine.com) is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.
+
+[Frostbite](https://www.ea.com/frostbite/engine) is a game engine developed by [DICE](https://www.dice.se/), designed for cross-platform use on Microsoft Windows and game consoles such as PlayStation 3 Xbox 360,  PlayStation 4, Xbox One, Nintendo Switch, PlayStation 5, and Xbox Series X/S.
+
+[Panda3D](https://www.panda3d.org/) is a game engine, a framework for 3D rendering and game development for Python and C++ programs, developed by Disney and CMU. Panda3D is open-source and free for any purpose, including commercial ventures.
+
+[Source 2](https://developer.valvesoftware.com/wiki/Source_2) is a 3D video game engine in development by Valve as a successor to Source. It is used in Dota 2, Artifact, Dota Underlords, parts of The Lab, SteamVR Home, and Half-Life: Alyx.
+
+[Havok](https://www.havok.com/) is a middleware software suite that provides a realistic physics engine component and related functions to video games. It is supported  and optimized across all major platforms, including Nintendo Switch, PlayStation®, Stadia, and Xbox. Along with integrations for Unity and Unreal Engine and are used in countless proprietary game engines.
+
+[AutoDesk 3ds Max](https://www.autodesk.com/products/3ds-max/overview) is a professional software program for 3D modeling, animation, rendering, and visualization. 3ds Max allows you to create stunning game environments, design visualizations, and virtual reality experiences.
+
+[Houdini](https://www.sidefx.com/) is a 3D procedural software for modeling, rigging, animation, VFX, look development, lighting and rendering in film, TV, advertising and video game pipelines.
+
+[A-Frame](https://aframe.io) is a web framework for building virtual reality experiences in WebVR with HTML and Entity-Component. A-Frame works on Vive, Rift, desktop, mobile platforms.
+
+[AppGameKit](https://www.appgamekit.com) is a powerful game development engine, ideal for Hobbyist and Indie developers. Where you can start coding in the easy to learn AppGameKit BASIC or use the libraries in C++ & XCode.
+
+[Amazon Lumberyard](https://aws.amazon.com/lumberyard/) is an open source, AAA game engine(based on CryEngine) that gives you the tools you need to create high quality games. Deeply integrated with AWS and Twitch, Amazon Lumberyard includes full source code, allowing you to customize your project at any level.
+
+[Blender](https://www.blender.org) is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+
+[CryEngine](https://www.cryengine.com) is a powerful real-time game development platform created by Crytek.
+
+[GameMaker Studio 2](https://www.yoyogames.com/gamemaker) is the latest and greatest incarnation of GameMaker. It has everything you need to take your idea from concept to finished game. With no barriers to entry and powerful functionality, GameMaker Studio 2 is the ultimate 2D development environment.
+
+[Godot](https://godotengine.org) is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. It provides a comprehensive set of common tools, so that users can focus on making games without having to reinvent the wheel. Games can be exported in one click to a number of platforms, including the major desktop platforms (Linux, Mac OSX, Windows) as well as mobile (Android, iOS) and web-based (HTML5) platforms.
+
+[Open Graphics Library(OpenGL)](https://www.opengl.org/) is an API used acrossed mulitple  programming languages and platforms for hardware-accelerated rendering of 2D/3D vector graphics currently developed by the [Khronos Group](https://www.khronos.org/).
+
+[Open Computing Language (OpenCL)](https://www.khronos.org/opencl/) is an open standard for [parallel programming](https://www.coursera.org/lecture/parprog1/introduction-to-parallel-computing-zNrIS) of heterogeneous platforms consisting of CPUs, GPUs, and other hardware accelerators found in supercomputers, cloud servers, personal computers, mobile devices and embedded platforms.
+
+[OpenGL Shading Language(GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) is a High Level Shading Language based on the C-style language, so it covers most of the features a user would expect with such a language.  Such as control structures (for-loops, if-else statements, etc) exist in GLSL, including the switch statement.
+
+[High Level Shading Language(HLSL)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline.
+
+[DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
+
+[Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.
+
+[Metal](https://developer.apple.com/metal/) is a low-level GPU programming framework used for rendering 2D and 3D graphics on Apple platforms such as iOS, iPadOS, macOS, watchOS and tvOS.
+
+[MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+[MoltenGL](https://moltengl.com) is an implementation of the OpenGL ES 2.0 API that runs on Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
+
+[Mesa 3D Graphics Library](https://docs.mesa3d.org/index.html) is a project began as an open-source implementation of the OpenGL specification. A system for rendering interactive 3D graphics. Mesa ties into several other open-source projects: the [Direct Rendering Infrastructure](https://dri.freedesktop.org/), [X.org](https://x.org/), and [Wayland](https://wayland.freedesktop.org/) to provide OpenGL support on Linux, FreeBSD, and other operating systems.
+
+[OpenGL ES](https://www.khronos.org/opengles/) is the mobile subset of OpenGL. It's supported on all major mobile platforms, and is also the base for WebGL.
+
+[OpenCL](https://www.khronos.org/opencl/) is a framework for writing programs that execute across heterogeneous platforms consisting of CPUs, GPUs, DSPs, FPGAs and other processors or hardware accelerators.
+
+[EGL](https://www.khronos.org/egl/) is an interface between Khronos rendering APIs such as OpenGL or OpenVG and the underlying native platform window system.
+
+[VDPAU](https://www.freedesktop.org/wiki/Software/VDPAU/) is the Video Decode and Presentation API for UNIX. It provides an interface to video decode acceleration and presentation hardware present in modern GPUs.
+
+[VA API](https://freedesktop.org/wiki/Software/vaapi/) is an open-source library and API specification, which provides access to graphics hardware acceleration capabilities for video processing.
+
+[XvMC](https://en.wikipedia.org/wiki/X-Video_Motion_Compensation) is an extension of the X video extension (Xv) for the X Window System. The XvMC API allows video programs to offload portions of the video decoding process to the GPU hardware.
+
+[AMD Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) is a powerful physically-based rendering engine that enables creative professionals to produce stunningly photorealistic images on virtually any GPU, any CPU, and any OS in over a dozen leading digital content creation and CAD applications.
+
+[NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
+
+[LibGDX](https://github.com/libgdx/libgdx) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+
+[MonoGame](https://github.com/MonoGame/MonoGame) is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
+
+[Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
+
+[Superpowers](http://superpowers-html5.com/) is a downloadable HTML5 app for real-time collaborative projects . You can use it solo like a regular offline game maker, or setup a password and let friends join in on your project through their Web browser.
+
+[URHO3D](https://urho3d.github.io/) is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
+
+[Vivox](https://www.vivox.com/) is a voice & text chat platform that's trusted by the world's biggest gaming brands and titles such as Fortnite, PUBG, League of Legends, and Rainbow Six Siege.
+
+[HGIG](https://www.hgig.org/) is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.
+
+[GameBlocks](https://www.gameblocks.com/) is a Server Side Anti-Cheat & Middleware software.
+
+# Linear Algebra
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124998626-9a1b4680-e001-11eb-9a49-1e97604e8a10.png">
+  <br />
+</p>
+
+# Linear Algebra Learning Resources
+
+[Linear algebra](https://en.wikipedia.org/wiki/Linear_algebra) is the math of vectors and matrices. The only prerequisite for this guide is a basic understanding of high school math concepts like numbers, variables, equations, and the fundamental arithmetic operations on real numbers: addition (denoted +), subtraction (denoted −), multiplication (denoted implicitly), and division (fractions). Also, you should also be familiar with functions that take real numbers as inputs and give real numbers as outputs, f : R → R.
+
+[Linear Algebra - Online Courses | Harvard University](https://online-learning.harvard.edu/course/linear-algebra)
+
+[Linear Algebra | MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)
+
+[Linear Algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+
+[Top Linear Algebra Courses on Coursera](https://www.coursera.org/courses?query=linear%20algebra)
+
+[Mathematics for Machine Learning: Linear Algebra on Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
+
+[Top Linear Algebra Courses on Udemy](https://www.udemy.com/topic/linear-algebra/)
+
+[Learn Linear Algebra with Online Courses and Classes on edX](https://www.edx.org/learn/linear-algebra)
+
+[The Math of Data Science: Linear Algebra Course on edX](https://www.edx.org/course/math-of-data-science-linear-algebra)
+
+[Linear Algebra in Twenty Five Lectures | UC Davis](https://www.math.ucdavis.edu/~linear/linear.pdf)
+
+[Linear Algebra | UC San Diego Extension](https://extension.ucsd.edu/courses-and-programs/linear-algebra-1)
+
+[Linear Algebra for Machine Learning | UC San Diego Extension](https://extension.ucsd.edu/courses-and-programs/linear-algebra-for-machine-learning)
+
+[Introduction to Linear Algebra, Interactive Online Video | Wolfram](http://www.wolfram.com/wolfram-u/introduction-to-linear-algebra/)
+
+[Linear Algebra Resources | Dartmouth](https://math.dartmouth.edu/~trs/linear-algebra-resources.php)
+
+#  Defintions
+
+### i. Vector operations
+
+We now define the math operations for vectors. The operations we can perform on vectors ~u = (u1, u2, u3) and ~v = (v1, v2, v3) are: addition, subtraction, scaling, norm (length), dot product, and cross product:
+
+The dot product and the cross product of two vectors can also be described in terms of the angle θ between the two vectors.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398163-26a7cb00-dcc9-11eb-9b70-3452d50762c5.png">
+  <br />
+</p>
+
+**Vector Operations. Source: [slideserve](https://www.slideserve.com/krystal/streaming-simd-extension-sse)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124399554-fbc17500-dcd0-11eb-96b0-c31df664425a.png">
+  <br />
+</p>
+
+**Vector Operations. Source: [pinterest](https://www.pinterest.com/pin/41799102767414798/)**
+
+### ii. Matrix operations
+
+We denote by A the matrix as a whole and refer to its entries as aij .The mathematical operations defined for matrices are the following:
+
+• determinant (denoted det(A) or |A|)
+Note that the matrix product is not a commutative operation.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398167-2ad3e880-dcc9-11eb-9455-9b0c3c6171cd.png">
+  <br />
+</p>
+
+**Matrix Operations. Source: [SDSU Physics](https://sdsu-physics.org/math/pages/435_LA_ch2.html)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398169-2c051580-dcc9-11eb-934a-71c691325062.png">
+  <br />
+</p>
+
+**Check for modules that allow Matrix Operations. Source: [DPS Concepts](https://dspconcepts.com/forums/audio-weaver-designer/347-check-modules-allow-matrix-operations)**
+
+### iii. Matrix-vector product
+
+The matrix-vector product is an important special case of the matrix product.
+
+There are two fundamentally different yet equivalent ways to interpret the matrix-vector product. In the column picture, (C), the multiplication of the
+matrix A by the vector ~x produces a linear combination of the columns of the matrix: ~y = A~x = x1A[:,1] + x2A[:,2], where A[:,1] and A[:,2] are the first and second columns of the matrix A. In the row picture, (R), multiplication of the matrix A by the vector ~x produces a column vector with coefficients equal to the dot products of rows of the matrix with the vector ~x.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398176-36bfaa80-dcc9-11eb-82c9-641f9ddd8563.png">
+  <br />
+</p>
+
+**Matrix-vector product. Source: [wikimedia](https://commons.wikimedia.org/wiki/File:Matrix_vector_product_qtl1.svg)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398178-38896e00-dcc9-11eb-94c4-2b2fa7499989.png">
+  <br />
+</p>
+
+**Matrix-vector Product. Source: [mathisfun](https://www.mathsisfun.com/algebra/scalar-vector-matrix.html)**
+
+### iv. Linear transformations
+
+The matrix-vector product is used to define the notion of a linear transformation, which is one of the key notions in the study of linear algebra. Multiplication by a matrix A ∈ R m×n can be thought of as computing a linear transformation TA that takes n-vectors as inputs and produces m-vectors as outputs:
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398182-3fb07c00-dcc9-11eb-815a-d31e591fe218.png">
+  <br />
+</p>
+
+**Linear Transformations. Source: [slideserve](https://www.slideserve.com/hall-cobb/chap-6-linear-transformations)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398184-40e1a900-dcc9-11eb-90e9-36031124610f.png">
+  <br />
+</p>
+
+**Elementary matrices for linear transformations in R^2. Source:[Quora](https://www.quora.com/What-is-a-linear-transformation)**
+
+### v. Fundamental vector spaces
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398197-4fc85b80-dcc9-11eb-9abc-3741bda9b63e.png">
+  <br />
+</p>
+
+**Fundamental theorem of linear algebra for Vector Spaces. Source: [wikimedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_linear_algebra)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398199-50f98880-dcc9-11eb-8fd0-994dc48f62d6.png">
+  <br />
+</p>
+
+**Fundamental theorem of linear algebra. Source: [wolfram](https://mathworld.wolfram.com/FundamentalTheoremofLinearAlgebra.html)**
+
+# Computational Linear Algebra
+
+### i. Solving systems of equations
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398355-307dfe00-dcca-11eb-8668-ba037de5aca5.png">
+  <br />
+</p>
+
+**System of Linear Equations by Graphing. Source: [slideshare](https://www.slideshare.net/JITENDRATHAKOR/systems-of-linear-equations-43550732)**
+
+### ii. Systems of equations as matrix equations
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398360-34118500-dcca-11eb-94eb-81ee66a9dc8a.png">
+  <br />
+</p>
+
+**Systems of equations as matrix equations. Source: [mathisfun](https://www.mathsisfun.com/algebra/systems-linear-equations-matrices.html?ref=binfind.com%2Fweb)**
+
+# Computing the Inverse of a Matrix
+
+In this section we’ll look at several different approaches for computing the inverse of a matrix. The matrix inverse is unique so no matter which
+method we use to find the inverse, we’ll always obtain the same answer.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398409-71761280-dcca-11eb-9add-d105af886569.png">
+  <br />
+</p>
+
+**Inverse of 2x2 Matrix. Source: [pinterest](https://www.pinterest.com/pin/375276581446966518/)**
+
+### i. Using row operations
+
+One approach for computing the inverse is to use the Gauss–Jordan elimination procedure.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398532-0c6eec80-dccb-11eb-9c82-6a65916fa43a.png">
+  <br />
+</p>
+
+**Elementray row operations. Source: [YouTube](http://www.youtube.com/watch?v=DH2JSYx52nk)**
+
+### ii. Using elementary matrices
+
+Every row operation we perform on a matrix is equivalent to a leftmultiplication by an elementary matrix.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398426-83f04c00-dcca-11eb-8dde-54deedff30f7.png">
+  <br />
+</p>
+
+**Elementary Matrices. Source: [SDSU Physics](http://sdsu-physics.org/math/pages/435_LA_ch2.html)**
+
+### iii. Transpose of a Matrix
+
+Finding the inverse of a matrix is to use the Transpose method.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398574-34f6e680-dccb-11eb-8112-ca77aad96004.png">
+  <br />
+</p>
+
+**Transpose of a Matrix. Source: [slideserve](https://www.slideserve.com/jaimin/matrix-inverse-and-transpose)**
+
+# Other Linear Topics
+
+In this section discuss a number of other important topics of linear algebra.
+
+### i. Basis
+
+Intuitively, a basis is any set of vectors that can be used as a coordinate system for a vector space. You are certainly familiar with the standard basis for the xy-plane that is made up of two orthogonal axes: the x-axis and the y-axis.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398635-a040b880-dccb-11eb-8d5f-0e6ec65b742d.png">
+  <br />
+</p>
+
+**Basis. Source: [wikimedia](https://en.wikipedia.org/wiki/Basis_(linear_algebra))**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398636-a171e580-dccb-11eb-8a40-8e6a9e24b6af.png">
+  <br />
+</p>
+
+**Change of Basis. Source: [wikimedia](https://en.wikipedia.org/wiki/Change_of_basis)**
+
+### ii. Matrix representations of linear transformations
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398653-b9e20000-dccb-11eb-8985-1d203f52f131.png">
+  <br />
+</p>
+
+**Matrix representations of linear transformations. Source: [slideserve](https://www.slideserve.com/sylvie/two-dimensional-geometric-transformations)**
+
+### iii. Dimension and Basis for Vector Spaces
+
+The dimension of a vector space is defined as the number of vectors in a basis for that vector space. Consider the following vector space S = span{(1, 0, 0),(0, 1, 0),(1, 1, 0)}. Seeing that the space is described by three vectors, we might think that S is 3-dimensional. This is not the case, however, since the three vectors are not linearly independent so they don’t form a basis for S. Two vectors are sufficient to describe any vector in S; we can write S = span{(1, 0, 0),(0, 1, 0)}, and we see these two vectors are linearly independent so they form a basis and dim(S) = 2. There is a general procedure for finding a basis for a vector space. Suppose you are given a description of a vector space in terms of m vectors V = span{~v1, ~v2, . . . , ~vm} and you are asked to find a basis for V and the dimension of V. To find a basis for V, you must find a set of linearly independent vectors that span V. We can use the Gauss–Jordan elimination procedure to accomplish this task. Write the vectors ~vi as the rows of a matrix M. The vector space V corresponds to the row space of the matrix M. Next, use row operations to find the reduced row echelon form (RREF) of the matrix M. Since row operations do not change the row space of the matrix, the row space of reduced row echelon form of the matrix M is the same as the row space of the original set of vectors. The nonzero rows in the RREF of the matrix form a basis for vector space V and the numbers of nonzero rows is the dimension of V.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398664-c5352b80-dccb-11eb-866e-61808bcf953d.png">
+  <br />
+</p>
+
+**Basis and Dimension. Source: [sliderserve](https://www.slideserve.com/kalil/chapter-3-vector-space)**
+
+### iv. Row space, columns space, and rank of a matrix
+
+Recall the fundamental vector spaces for matrices that we defined in Section II-E: the column space C(A), the null space N (A), and the row space R(A). A standard linear algebra exam question is to give you a certain matrix A and ask you to find the dimension and a basis for each of its fundamental spaces. In the previous section we described a procedure based on Gauss–Jordan elimination which can be used “distill” a set of linearly independent vectors which form a basis for the row space R(A). We will now illustrate this procedure with an example, and also show how to use the RREF of the matrix A to find bases for C(A) and N (A).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398677-d67e3800-dccb-11eb-8052-dfd1b01920fd.png">
+  <br />
+</p>
+
+**Row space and Column space. Source: [slideshare](https://www.slideshare.net/VishveshJasani/row-space-column-space-null-space-rank-nullity)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398679-d8e09200-dccb-11eb-8707-e340933063d4.png">
+  <br />
+</p>
+
+**Row space and Column space. Source: [slideshare](http://www.slideshare.net/RonakMachhi/null-space-rank-and-nullity-theorem)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398681-d9792880-dccb-11eb-8c6f-0c483cf860a4.png">
+  <br />
+</p>
+
+**Rank and Nullity. Source: [slideshare](https://www.slideshare.net/VishveshJasani/row-space-column-space-null-space-rank-nullity)**
+
+### v. Invertible matrix theorem
+
+There is an important distinction between matrices that are invertible and those that are not as formalized by the following theorem. Theorem. For an n×n matrix A, the following statements are equivalent:
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398692-e6961780-dccb-11eb-98d9-dae7199a6365.png">
+  <br />
+</p>
+
+**Invertible Matrix theorem. Source: [SDSU Physics](https://sdsu-physics.org/math/pages/435_LA_ch2.html)**
+
+### vi. Determinants
+
+The determinant of a matrix, denoted det(A) or |A|, is a special way to combine the entries of a matrix that serves to check if a matrix is invertible or not.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398703-f9105100-dccb-11eb-8d4e-e6db343304ec.png">
+  <br />
+</p>
+
+**Determinant of a Square Matrix. Source: [stackexchange](https://math.stackexchange.com/questions/1354148/proving-the-formula-for-finding-the-determinant-of-a-square-matrix)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398705-fa417e00-dccb-11eb-8d1f-0cbf01d77f3d.png">
+  <br />
+</p>
+
+**Determinant of matrix. Source: [onlinemathlearning](https://www.onlinemathlearning.com/matrix-determinants.html)**
+
+### vii. Eigenvalues and eigenvectors
+
+The set of eigenvectors of a matrix is a special set of input vectors for which the action of the matrix is described as a simple scaling. When a matrix is multiplied by one of its eigenvectors the output is the same eigenvector multiplied by a constant A~eλ = λ~eλ. The constant λ is called an eigenvalue of A.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398717-03cae600-dccc-11eb-86f2-72a816b9231a.png">
+  <br />
+</p>
+
+**Generalized EigenVectors. Source: [YouTube](https://www.youtube.com/watch?v=xyhaYHGZN-w)**
+
+### viii. Linear Regression
+
+[Linear regression](https://en.wikipedia.org/wiki/Linear_regression) is an approach to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124398722-0af1f400-dccc-11eb-9ac7-1de7c6e43ff5.png">
+  <br />
+</p>
+
+**Multiple Linear Regression. Source: [Medium](https://medium.com/@subarna.lamsal1/multiple-linear-regression-sklearn-and-statsmodels-798750747755)**
+
 # Algorithms
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 **[NIST Fingerprint Image Quality algorithms](https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis#NFIQ)**
 
@@ -503,184 +1457,9 @@
 
 **Bayes' theorem. Source:[mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
 
-# Differential Equations
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784741-db52dcd7-eb37-4b74-a307-7a45c69c4fd6.png">
-  <br />
-</p>
-
-## Differential Equations Learning Resources
-[Back to the Top](https://github.com/mikeroyal/Differential-Equations-Guide#table-of-contents)
-
-[Ordinary Differential Equation | Wolfram MathWorld](https://mathworld.wolfram.com/OrdinaryDifferentialEquation.html)
-
-[Differential Equations - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=differential+equations)
-
-[Differential Equations | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
-
-[Differential Equations - Complete Review Course | YouTube](https://www.youtube.com/watch?v=lxGArmr4moI)
-
-[Differential Equations Playlist | YouTube](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902)
-
-[Introduction to Differential Equations | YouTube](https://www.youtube.com/watch?v=EWVSxND_iWA)
-
-[Linear Systems of Differential Equations | YouTube](https://www.youtube.com/watch?v=TBoPC2I-WsI)
-
-[Linear Algebra and Differential Equations | Harvard University](https://online-learning.harvard.edu/course/linear-algebra-and-differential-equations-1)
-
-[Ordinary Differential Equations | Harvard University](https://online-learning.harvard.edu/course/ordinary-differential-equations)
-
-[Partial Differential Equations in Engineering Course | Stanford Online](https://online.stanford.edu/courses/me300b-partial-differential-equations-engineering)
-
-[Partial Differential Equations of Applied Mathematics Course | Stanford Online](https://online.stanford.edu/courses/math220-partial-differential-equations-applied-mathematics)
-
-[Top Differential Equation Courses Online | Coursera](https://www.coursera.org/courses?query=differential%20equation&page=1)
-
-[Introduction to Ordinary Differential Equations | Coursera](https://www.coursera.org/learn/ordinary-differential-equations)
-
-[Differential Equations | Udemy](https://www.udemy.com/course/differential-equations-sgt/)
-
-[Top Differential Equations Courses Online | Udemy](https://www.udemy.com/topic/Differential-Equations/)
-
-[Learn Differential Equations with Online Courses and lessons | edX](https://www.edx.org/learn/differential-equations)
-
-[Differential Equations Courses - Engineer4Free](https://www.engineer4free.com/differential-equations.html)
-
-[Differential Equations Study Resources - Course Hero](https://www.coursehero.com/subjects/differential-equations/)
-
-
-## First order differential equations
-
- - Differential equations: First order differential equations
- - Slope fields: First order differential equations
- - Euler's Method: First order differential equations
- - Separable equations: First order differential equations
- - Exponential models: First order differential equations
- - Logistic models: First order differential equations
- - Exact equations and integrating factors: First order differential equations
- - Homogeneous equations: First order differential equations
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784746-2896215a-4782-4599-84dc-e12ee4cc334f.png">
-  <br />
-</p>
-
-## Second order linear equations
-
- - Linear homogeneous equations: Second order linear equations
- - Complex and repeated roots of characteristic equation: Second order linear equations
- - Method of undetermined coefficients: Second order linear equations
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784747-de3066a4-b31e-4002-91ce-969d4019b2eb.png">
-  <br />
-</p>
-
-## Laplace transform
-
- - Laplace transform: Laplace transform
- - Properties of the Laplace transform: Laplace transform
- - Laplace transform to solve a differential equation: Laplace transform
- - The convolution integral
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784748-f66b1b0f-2385-4513-b36a-6705045aef9b.png">
-  <br />
-</p>
-
-# Electric charge, field, and potential
-[Back to the Top](https://github.com/mikeroyal/DPS-Guide#table-of-contents)
-
-     - Charge and electric force (Coulomb's law): Electric charge, field, and potential
-     - Electric field: Electric charge, field, and potential
-     - Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784122-2c0e9166-ff73-44cf-a5b5-62d76aba80c7.png">
-  <br />
-</p>
-
- **Electric Potential Energy. Source: [sparkfun](https://learn.sparkfun.com/tutorials/what-is-electricity/electric-potential-energy)**
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784121-8f89a787-1674-4db4-ba46-b2f280706dd9.png">
-  <br />
-</p>
-
-# Circuits
-[Back to the Top](https://github.com/mikeroyal/DPS-Guide#table-of-contents)
-
-    - Ohm's law and circuits with resistors: Circuits
-    - Circuits with capacitors: Circuits
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784127-ad587152-0c0d-4671-b29d-9231889899ff.png">
-  <br />
-</p>
-
- **Electric Circuits. Source: [sdsu-physics](http://sdsu-physics.org/physics180/physics180B/Chapters/electric_currents.htm)**
-
-  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784128-941e1cf9-0cff-4702-b97b-f827d9489a20.png">
-  <br />
-</p>
-
- **Symbols of Circuits .Source: [andrewpover.co.uk](https://andrewpover.co.uk/category/physics/)**
-
-# Magnetic forces, magnetic fields, and Faraday's law
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
-
-    - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
-    - Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
-    - Electric motors: Magnetic forces, magnetic fields, and Faraday's law
-    - Magnetic flux and Faraday's law
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784132-d4b67030-9e04-41f1-90d2-98b7c6beebe8.png">
-  <br />
-</p>
-
- **Magnetic Field. Source: [vecteezy](https://www.vecteezy.com/vector-art/593998-physics-science-about-the-movement-of-magnetic-fields-positive-and-negative)**
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784663-28e8ad0e-aa9d-4dbf-b285-0b2976de2d3e.png">
-  <br />
-</p>
-
- **Amphere's Law. Source: [sdsu-physics](https://sdsu-physics.org/physics180/physics196/Topics/magneticFields30.html)**
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784666-dd53913b-33c9-4ddd-8cf1-b8fa398bf3de.png">
-  <br />
-</p>
-
- **Farady's law. Source: [sdsu-physics](http://sdsu-physics.org/physics180/physics196/Topics/faradaysLaw.html)**
-
-# Electromagnetic waves and interference
-[Back to the Top](https://github.com/mikeroyal/DPS-Guide#table-of-contents)
-
-    - Introduction to electromagnetic waves: Electromagnetic waves and interference
-    - Interference of electromagnetic waves
-
-  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127785050-a98f0812-d723-49b9-9796-ac05bb64804a.png">
-  <br />
-</p>
-
- **Electromagnetic Wave. Source: [differencebetween](https://www.differencebetween.com/difference-between-wave-and-particle-nature-of-light/)**
-
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127785051-1a86c310-0e09-4f8b-be8e-99770dd0301e.png">
-  <br />
-</p>
-
-   **EMI Spectrum. Source: [electrical4u](https://www.electrical4u.com/electromagnetic-interference/)**
-
 
 # Machine Learning
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352527-ad077880-1078-11eb-98b7-da1c0586cf0e.png">
@@ -794,7 +1573,7 @@
 [cuML](https://github.com/rapidsai/cuml) is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # CUDA Development
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306481-e17b8f00-ff27-11ea-832f-c85374acb3b1.png">
@@ -871,79 +1650,8 @@
 
 [GraphVite](https://graphvite.io/) is a general graph embedding engine, dedicated to high-speed and large-scale embedding learning in various applications.
 
-# OpenCL Development
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
-
-<p align="center">
- <img src="">
-  <br />
-</p>
-
-# OpenCL Learning Resources
-[Back to the Top](https://github.com/mikeroyal/OpenCL-Guide#table-of-contents)
-
-[Open Computing Language (OpenCL)](https://www.khronos.org/opencl/) is an open standard for [parallel programming](https://www.coursera.org/lecture/parprog1/introduction-to-parallel-computing-zNrIS) of heterogeneous platforms consisting of CPUs, GPUs, and other hardware accelerators found in supercomputers, cloud servers, personal computers, mobile devices and embedded platforms.
-
-[OpenCL | GitHub](https://github.com/OpenCL/)
-
-[Khronos Group | GitHub](https://github.com/KhronosGroup/)
-
-[Khronos Technology Courses and Training](https://www.khronos.org/developers/training/)
-
-[OpenCL Tutorials - StreamHPC](https://streamhpc.com/knowledge/for-developers/tutorials/)
-
-[Introduction to Intel® OpenCL Tools](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-intel-opencl-tools.html)
-
-[OpenCL | NVIDIA Developer](https://developer.nvidia.com/opencl)
-
-[Introduction to OpenCL on FPGAs Course | Coursera](https://www.coursera.org/learn/opencl-fpga-introduction)
-
-[Compiling OpenCL Kernel to FPGAs Course | Coursera](https://www.coursera.org/lecture/opencl-fpga-introduction/compiling-opencl-kernel-to-fpgas-g7MnU)
-
-# OpenCL Tools, Libraries and Frameworks
-[Back to the Top](https://github.com/mikeroyal/OpenCL-Guide#table-of-contents)
-
-
-[RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
-
-[GPUVerify](https://streamhpc.com/knowledge/tools/gpuverify/) is a tool for formal analysis of GPU kernels written in OpenCL and CUDA. The tool can prove that kernels are free from certain types of defect, including data races.
-
- [OpenCL ICD Loader](https://github.com/KhronosGroup/OpenCL-ICD-Loader) is an Installable Client Driver (ICD) mechanism to allow developers to build applications against an Installable Client Driver loader (ICD loader) rather than linking their applications against a specific OpenCL implementation.
-
-[clBLAS](https://github.com/clMathLibraries/clBLAS) is a software library containing BLAS functions written in OpenCL.
-
-[clFFT](https://github.com/clMathLibraries/clFFT) is a software library containing FFT functions written in OpenCL.
-
-[clSPARSE](https://github.com/clMathLibraries/clSPARSE) is a software library containing Sparse functions written in OpenCL.
-
-[clRNG](https://github.com/clMathLibraries/clRNG) is an OpenCL based software library containing random number generation functions.
-
-[CLsmith](https://github.com/ChrisLidbury/CLSmith/) is a tool that  makes use of two existing testing techniques, Random Differential Testing and Equivalence Modulo Inputs (EMI), applying them in a many-core environment, OpenCL. Its primary feature is the generation of random OpenCL kernels, exercising many features of the language. It also brings a novel idea of applying EMI, via dead-code injection.
-
-[Oclgrind](https://github.com/jrprice/Oclgrind) is a virtual OpenCL device simulator, including an OpenCL runtime with ICD support. The goal is to provide a platform for creating tools to aid OpenCL development. In particular, this project currently implements utilities for debugging memory access errors, detecting data-races and barrier divergence, collecting instruction histograms, and for interactive OpenCL kernel debugging. The simulator is built on an interpreter for LLVM IR.
-
-[NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
-
-[Radeon™ GPU Profiler](https://gpuopen.com/rgp/) is a performance tool that can be used by developers to optimize DirectX®12, Vulkan® and OpenCL™ applications for AMD RDNA™ and GCN hardware.
-
-[Radeon™ GPU Analyzer](https://gpuopen.com/rga/) is a compiler and code analysis tool for Vulkan®, DirectX®, OpenGL® and OpenCL™.
-
-[AMD Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) is a powerful physically-based rendering engine that enables creative professionals to produce stunningly photorealistic images on virtually any GPU, any CPU, and any OS in over a dozen leading digital content creation and CAD applications.
-
-[NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
-
-[Intel® SDK For OpenCL™ Applications](https://software.intel.com/content/www/us/en/develop/tools/opencl-sdk.html) is an offload compute-intensive workloads. Customize heterogeneous compute applications and accelerate performance with kernel-based programming.
-
-[NVIDIA NGC](https://ngc.nvidia.com/) is a hub for GPU-optimized software for deep learning, machine learning, and high-performance computing (HPC) workloads.
-
-[NVIDIA NGC Containers](https://www.nvidia.com/en-us/gpu-cloud/containers/) is a registry that provides researchers, data scientists, and developers with simple access to a comprehensive catalog of GPU-accelerated software for AI, machine learning and HPC. These containers take full advantage of NVIDIA GPUs on-premises and in the cloud.
-
-[NVIDIA cuDNN](https://developer.nvidia.com/cudnn) is a GPU-accelerated library of primitives for [deep neural networks](https://developer.nvidia.com/deep-learning). cuDNN provides highly tuned implementations for standard routines such as forward and backward convolution, pooling, normalization, and activation layers. cuDNN accelerates widely used deep learning frameworks, including [Caffe2](https://caffe2.ai/), [Chainer](https://chainer.org/), [Keras](https://keras.io/), [MATLAB](https://www.mathworks.com/solutions/deep-learning.html), [MxNet](https://mxnet.incubator.apache.org/), [PyTorch](https://pytorch.org/), and [TensorFlow](https://www.tensorflow.org/).
-
-[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) is a collection of tools & libraries that allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime [library](https://github.com/NVIDIA/libnvidia-container) and utilities to automatically configure containers to leverage NVIDIA GPUs.
-
 # MATLAB Development
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306473-de809e80-ff27-11ea-924b-0a6947ae38bc.png">
@@ -1049,7 +1757,7 @@
 [GNU Octave](https://www.gnu.org/software/octave/) is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
 
 # C/C++ Development
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -1129,6 +1837,14 @@
 
 ## C/C++ Tools and Frameworks
 
+[AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
+
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp)
+
+[Azure SDK for C](https://github.com/Azure/azure-sdk-for-c)
+
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp)
+
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
@@ -1191,10 +1907,10 @@
 
 ## Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/DSP-Guide/pulls).
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/AR-VR-Guide/pulls).
 
 
 ## License
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
