@@ -18,7 +18,7 @@
 
 1. [Augmented Reality (AR) & Virtual Reality (VR) Learning Resources](https://github.com/mikeroyal/AR-VR-Guide#Augmented-Reality-AR--Virtual-Reality-VR-learning-resources)
 
-2. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/AR-VR-Guide#Augmented-Reality-AR--Virtual-Reality-VR-Guide-tools-and-frameworks)
+2. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/AR-VR-Guide#Augmented-Reality-AR--Virtual-Reality-VR-tools-and-frameworks)
 
 3. [Vulkan Development](https://github.com/mikeroyal/AR-VR-Guide#vulkan-development)
 
