@@ -92,7 +92,7 @@
 
 [Learn Augmented Reality with Online Courses and Lessons | edX](https://www.edx.org/learn/augmented-reality)
 
-# Augmented Reality (AR) & Virtual Reality (VR) Tool and Frameworks
+# Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 [ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
