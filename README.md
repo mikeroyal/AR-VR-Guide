@@ -461,6 +461,11 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 # Photogrammetry Development
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/129494677-0341843b-c78c-4027-8a2c-43e98a995f6f.png">
+  <br />
+</p>
+
 ## Photogrammetry Learning Resources
 
 [Photogrammetry](https://www.autodesk.com/solutions/photogrammetry-software) is the art and science of extracting 3D information from photographs. The process involves taking overlapping photographs of an object, structure, or space, and converting them into 2D or 3D digital models. Photogrammetry is often used by surveyors, architects, engineers, and contractors to create topographic maps, meshes, point clouds, or drawings based on the real-world.
