@@ -316,11 +316,11 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/129622295-1bd0e123-57bb-4460-baab-8dbc8818052a.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146692542-cc8ed49f-8ba9-489e-88d0-c7c79b73b379.png">
   <br />
 </p>
 
-# DirectX Learning Resources
+## DirectX Learning Resources
 
 [Microsoft DirectX®](https://support.microsoft.com/en-us/topic/how-to-install-the-latest-version-of-directx-d1f5ffa5-dae2-246c-91b1-ee1e973ed8c2) is a low-level API that handles tasks related to multimedia for game programming and video on Microsoft platforms(Windows & Xbox).
 
@@ -1763,7 +1763,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146692545-d11fea7b-255f-4698-9e69-1967818522bd.png">
   <br />
 </p>
 
