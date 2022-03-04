@@ -157,13 +157,15 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
   <img alt="[oculus-quest" src="https://user-images.githubusercontent.com/45159366/156683316-417ccc86-51c7-470a-a565-b5318e014dc0.png">
 </p>
 
+ Oculus Quest 2 Headset. Source: [Oculus](https://www.oculus.com/quest-2/)
+
 [RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by one of Apple's M1 series chips.
 
 <p align="center">
   <img alt="[realityos" src="https://user-images.githubusercontent.com/45159366/156685090-0bb67294-da7f-4466-9a71-8e8fa36ecfdb.png">
 </p>
 
-Apple AR/VR Headset concept by Dominik Hofacker. Credit: [Dominik Hofacker](https://www.dominikhofacker.me/work/macos-reality)
+Apple AR/VR concept by Dominik Hofacker. Credit: [Dominik Hofacker](https://www.dominikhofacker.me/work/macos-reality)
 
 
 [HTC Vive Headset](https://www.vive.com/) is a virtual reality headset developed by HTC.
