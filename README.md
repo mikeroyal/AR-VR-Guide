@@ -134,7 +134,7 @@
 
 Microsoft HoloLens Headset. Source: [Microsoft](https://www.microsoft.com/en-us/hololens/)
 
-[PlayStation VR Headset](https://www.playstation.com/en-us/ps-vr/) is a virtual reality headset developed by Sony Interactive Entertainment. It gives the user an amazing gaming experience with stunning High Dynamic Range visuals and up to 120fps, as two 1920 x 1080 OLED displays deliver a vast 100º field of view. PSVR is fully functional with the PlayStation 4 and is forward compatible with the PlayStation 5 home video game console. 
+[PlayStation® VR Headset](https://www.playstation.com/en-us/ps-vr/) is a virtual reality headset developed by Sony Interactive Entertainment. It gives the user an amazing gaming experience with stunning High Dynamic Range visuals and up to 120fps, as two 1920 x 1080 OLED displays deliver a vast 100º field of view. PSVR is fully functional with the PlayStation 4™ and is forward compatible with the PlayStation 5™ home video game console. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/117720763-e9750000-b193-11eb-888a-e4bccd6c30eb.png">
@@ -157,7 +157,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
   <img alt="[oculus-quest" src="https://user-images.githubusercontent.com/45159366/156683316-417ccc86-51c7-470a-a565-b5318e014dc0.png">
 </p>
 
-[RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented rRality/Virtual Reality) headset by one of Apple's M1 series chips.
+[RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by one of Apple's M1 series chips.
 
 <p align="center">
   <img alt="[realityos" src="https://user-images.githubusercontent.com/45159366/156685090-0bb67294-da7f-4466-9a71-8e8fa36ecfdb.png">
@@ -166,7 +166,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 Apple AR/VR Headset concept by Dominik Hofacker. Credit: [Dominik Hofacker](https://www.dominikhofacker.me/work/macos-reality)
 
 
-[HTC Vive Headset Support](https://www.vive.com/) is a virtual reality headset developed by HTC.
+[HTC Vive Headset](https://www.vive.com/) is a virtual reality headset developed by HTC.
 
   - [Getting Started with OpenVR in Unity](https://docs.unity3d.com/Manual/VRDevices-OpenVR.html)
 
@@ -195,6 +195,7 @@ SteamVR Home
 <img src="https://user-images.githubusercontent.com/45159366/117720776-ed088700-b193-11eb-8538-9831999b5104.png">
 <br />
 </p>
+
 Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveindex)
 
 [Samsung Gear VR Headset](https://www.samsung.com/global/galaxy/gear-vr/) is a virtual reality headset developed by Samsung along with collaboration from Oculus VR. 
