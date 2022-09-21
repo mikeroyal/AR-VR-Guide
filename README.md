@@ -19,7 +19,7 @@
 1. [Getting Started with AR/VR](https://github.com/mikeroyal/AR-VR-Guide#getting-started-with-arvr)
 
    * [Developer Resources](https://github.com/mikeroyal/AR-VR-Guide#developer-resources)
-   * [AR/VR Training Courses](https://github.com/mikeroyal/AR-VR-Guide#arvr-learning-courses)
+   * [AR/VR Training Courses](https://github.com/mikeroyal/AR-VR-Guide#arvr-training-courses)
 
 2. [AR/VR Tools, Frameworks, and Hardware](https://github.com/mikeroyal/AR-VR-Guide#arvr-tools-frameworks-and-hardware)
     
