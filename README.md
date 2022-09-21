@@ -16,9 +16,28 @@
 
 # Table of Contents
 
-1. [Augmented Reality (AR) & Virtual Reality (VR) Learning Resources](https://github.com/mikeroyal/AR-VR-Guide#Augmented-Reality-AR--Virtual-Reality-VR-learning-resources)
+1. [Getting Started with AR/VR](https://github.com/mikeroyal/AR-VR-Guide#getting-started-with-arvr)
 
-2. [Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks](https://github.com/mikeroyal/AR-VR-Guide#Augmented-Reality-AR--Virtual-Reality-VR-tools-and-frameworks)
+   * [Developer Resources](https://github.com/mikeroyal/AR-VR-Guide#developer-resources)
+   * [AR/VR Training Courses](https://github.com/mikeroyal/AR-VR-Guide#arvr-traininglearning-courses)
+
+2. [AR/VR Tools, Frameworks, and Hardware](https://github.com/mikeroyal/AR-VR-Guide#arvr-tools-frameworks-and-hardware)
+
+    * [Microsoft HoloLens Headset](https://github.com/mikeroyal/AR-VR-Guide#Microsoft-HoloLens-Headset)
+
+    * [PlayStation® VR Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-Headset)
+
+    * [PlayStation®VR 2 Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-2-Headset)
+
+    * [Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
+
+    * [RealityOS](https://github.com/mikeroyal/AR-VR-Guide#RealityOS)
+
+    * [HTC Vive Headset](https://github.com/mikeroyal/AR-VR-Guide#HTC-Vive-Headset)
+  
+    * [SteamVR](https://github.com/mikeroyal/AR-VR-Guide#SteamVR)
+
+    * [Perception Neuron Motion Capture Suit](https://github.com/mikeroyal/AR-VR-Guide#Perception-Neuron-Motion-Capture-Suit)
 
 3. [Vulkan Development](https://github.com/mikeroyal/AR-VR-Guide#vulkan-development)
 
@@ -49,7 +68,7 @@
 16. [C/C++ Development](https://github.com/mikeroyal/AR-VR-Guide#cc-development)
 
 
-# Augmented Reality (AR) & Virtual Reality (VR) Learning Resources
+# Getting Started with AR/VR
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 [Augmented Reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information.
@@ -86,7 +105,7 @@
 
  * [Unreal Engine Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/PerformanceAndProfiling/)
  
-### AR/VR Training/Learning Courses
+### AR/VR Training Courses
 
  * [Unity Learn Training Program](https://learn.unity.com)
 
@@ -106,7 +125,7 @@
 
  * [Learn Augmented Reality with Online Courses and Lessons | edX](https://www.edx.org/learn/augmented-reality)
 
-# Augmented Reality (AR) & Virtual Reality (VR) Tools and Frameworks
+# AR/VR Tools, Frameworks, and Hardware
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
 [Reality Composer](https://developer.apple.com/augmented-reality/tools/) is a powerful tool that makes it easy for you to create interactive augmented reality experiences with no prior 3D experience. The Reality Converter quickly converts your existing 3D models to [USDZ](https://graphics.pixar.com/usd/files/USDZFileFormatSpecification.pdf) so it works seamlessly in our tools and on all AR-enabled iPhone and iPad devices.
@@ -125,11 +144,19 @@
 
 [ARCore](https://developers.google.com/ar/) is a software development kit developed by Google that allows for augmented reality applications in the real world. These tools include environmental understanding, which allows devices to detect horizontal and vertical surfaces and planes. It also includes motion tracking, which lets phones understand and track their positions relative to the world. Also ARCore’s Light Estimation API lets your digital objects appear realistically as if they’re actually part of the physical world.
 
-[Adobe Aero](https://www.adobe.com/products/aero.html) is a powerful new [augmented reality (AR)](https://en.wikipedia.org/wiki/Augmented_reality) authoring tool that makes it easier for designers to create immersive content.
+[RealityCapture](https://www.capturingreality.com/) is a state-of-the-art photogrammetry software solution that creates virtual reality scenes, textured 3D meshes, orthographic projections, geo-referenced maps and much more from images and/or laser scans completely automatically.
+
+[Adobe Scantastic](https://labs.adobe.com/projects/scantastic/)  is a tool that makes the creation of 3D assets accessible to everyone. It can be used with just a mobile device (combined with Adobe's server-based photogrammetry pipeline), users can easily scan objects in their physical environment and turn them into 3D models which can then be imported into tools like Adobe Dimension and Adobe Aero.
+
+[Adobe Aero](https://www.adobe.com/products/aero.html)  is a tool that helps you build, view, and share immersive AR experiences. Simply build a scene by bringing in 2D images from Adobe Photoshop and Illustrator, or 3D models from Adobe Dimension, Substance, third-party apps like Cinema 4D, or asset libraries like Adobe Stock and TurboSquid. Aero optimizes a wide array of assets, including OBJ, GLB, and glTF files, for AR, so you can visualize them in real time.
 
 [Vuforia](https://developer.vuforia.com/) is a comprehensive, scalable enterprise AR platform. Our wide-ranging solution suite ensures that we can provide the right AR technology to every customer based on their business needs.
 
 [Vuforia Studio](https://www.ptc.com/en/products/vuforia/vuforia-studio) is a tool that allows anyone to create beautiful 3D augmented reality (AR) experiences in a matter of minutes with no coding required.
+
+[Polycam](https://poly.cam/) is the world's most popular LiDAR 3D scanning app for iOS(iPhone/iPad), Web, and Android. It let's you scan the world around you with your mobile device, DSLR camera, or drone to get beautiful, accurate 3D models.
+
+[3D Scanner App for Mac](https://apps.apple.com/us/app/3d-scanner-app/id1419913995) is a desktop tool for processing photos and videos into 3D models using the power of Photogrammetry; which makes it perfect for 3D Design, CAD, Architecture, Games Assets, AR, VR, XR. It shares USDZ models via iMessage to let friends and family see your models in Augmented Reality.
 
 [OpenVX™](https://www.khronos.org/openvx/) is an open-source, royalty-free standard for cross platform acceleration of computer vision applications. OpenVX enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases such as face, body and gesture tracking, smart video surveillance, advanced driver assistance systems (ADAS), object and scene reconstruction, augmented reality, visual inspection, robotics and more.
 
@@ -150,6 +177,23 @@ ALVR uses technologies like [Asynchronous Timewarp](https://developer.oculus.com
 
 [OVR Toolkit](https://store.steampowered.com/app/1068820/OVR_Toolkit/) is a utility application designed to make viewing the desktop in VR simple and fast, it allows for viewing the desktop within VR, placing desktop windows around the world, mouse input, typing with a virtual keyboard, and quickly switching between windows.
 
+[OpenVR](https://github.com/ValveSoftware/openvr) is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
+
+[OpenVR Benchmark on Steam](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.
+
+[OpenHMD](http://www.openhmd.net/) is open source API and drivers that supports a wide range of HMD(head-mounted display) devices such as Oculus Rift, HTC Vive, Sony PSVR, and others.
+
+[openXR](https://www.khronos.org/OpenXR/) is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices.
+
+[Monado](https://monado.dev/) is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.
+
+[Libsurvive](https://github.com/cntools/libsurvive) is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
+
+[Simula](https://github.com/SimulaVR/Simula) is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156)).
+
+### Microsoft HoloLens Headset
+[Back to the Top](#table-of-contents)
+
 [Microsoft HoloLens Headset](https://www.microsoft.com/en-us/hololens/) is a pair of mixed reality smartglasses developed and manufactured by Microsoft. It's also the first fully self-contained holographic computer to run Windows 10. 
 
 <p align="center">
@@ -158,6 +202,9 @@ ALVR uses technologies like [Asynchronous Timewarp](https://developer.oculus.com
 </p>
 
 Microsoft HoloLens Headset. Source: [Microsoft](https://www.microsoft.com/en-us/hololens/)
+
+### PlayStation® VR Headset
+[Back to the Top](#table-of-contents)
 
 [PlayStation® VR Headset](https://www.playstation.com/en-us/ps-vr/) is a virtual reality headset developed by Sony Interactive Entertainment. It gives the user an amazing gaming experience with stunning High Dynamic Range visuals and up to 120FPS, as two 1920 x 1080 OLED displays deliver a vast 100º field of view. PSVR is fully functional with the PlayStation 4™ and is forward compatible with the PlayStation 5™ home video game console. 
 
@@ -168,13 +215,19 @@ Microsoft HoloLens Headset. Source: [Microsoft](https://www.microsoft.com/en-us/
 
 PlayStation VR Headset. Source: [PlayStation](https://www.playstation.com/en-us/ps-vr/)
 
-[PlayStation®VR2](https://www.playstation.com/en-us/ps-vr2/) is the next generation of virtual reality gaming by PlayStation. It gives the user an amazing gaming experience with new stunning 4K High Dynamic Range visuals and up to 120fps, as two 2000 x 2040 OLED displays deliver over four times the resolution generated by the original PlayStation®VR headset. A vast 110º field of view and a light, well-balanced Fresnel lens. The lens adjustment dial allows you to customize spacing between lenses to match your eye position for an optimal onscreen image. Along with ground-breaking new controllers and genre-defining games, all made possible by the power of PS5™.
+### PlayStation® VR 2 Headset
+[Back to the Top](#table-of-contents)
+
+[PlayStation®VR 2](https://www.playstation.com/en-us/ps-vr2/) is the next generation of virtual reality gaming by PlayStation. It gives the user an amazing gaming experience with new stunning 4K High Dynamic Range visuals and up to 120fps, as two 2000 x 2040 OLED displays deliver over four times the resolution generated by the original PlayStation®VR headset. A vast 110º field of view and a light, well-balanced Fresnel lens. The lens adjustment dial allows you to customize spacing between lenses to match your eye position for an optimal onscreen image. Along with ground-breaking new controllers and genre-defining games, all made possible by the power of PS5™.
 
 <p align="center">
   <img alt="[psvr2" src="https://user-images.githubusercontent.com/45159366/156683318-6811ecf8-a8f2-4652-8872-f669cf38b459.png">
 </p>
 
 PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-us/ps-vr2/)
+
+### Oculus Quest 2
+[Back to the Top](#table-of-contents)
 
 [Oculus Quest 2](https://www.oculus.com/quest-2/) is a virtual reality headset developed by Facebook AKA Meta Technologies, LLC. The Quest 2 provides multiplayer games to unique social experiences to joining up with friends at a live show or instructor-led workout. With High Dynamic Range visuals and up to 120fps, as two 1832x1920 per-eye and vast 97° field of view horizontal. Oculus Quest 2 can be connected to a PC via Oculus Link, which can be performed using the official Link cable or a third party USB-C cable. This allows the headset to be used to run content from SteamVR and the desktop Oculus store. Note that a high-bandwidth USB specification (USB 3.0 at a minimum) is required to achieve a high-quality and smooth picture.
 
@@ -183,8 +236,11 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 </p>
 
  Oculus Quest 2 Headset. Source: [Oculus](https://www.oculus.com/quest-2/)
+ 
+ ### RealityOS
+[Back to the Top](#table-of-contents)
 
-[RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by one of Apple's M1 series chips.
+[RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by one of Apple's Silicon series chip.
 
 <p align="center">
   <img alt="[realityos" src="https://user-images.githubusercontent.com/45159366/156685090-0bb67294-da7f-4466-9a71-8e8fa36ecfdb.png">
@@ -192,6 +248,8 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 Apple AR/VR concept by Dominik Hofacker. Credit: [Dominik Hofacker](https://www.dominikhofacker.me/work/macos-reality)
 
+### HTC Vive Headset
+[Back to the Top](#table-of-contents)
 
 [HTC Vive Headset](https://www.vive.com/) is a virtual reality headset developed by HTC.
 
@@ -208,6 +266,9 @@ Apple AR/VR concept by Dominik Hofacker. Credit: [Dominik Hofacker](https://www.
 <p align="center">
   <img alt="[htc-vive" src="https://user-images.githubusercontent.com/18353476/39963101-3a2e5f36-5617-11e8-96d9-cfdc5e1dcafe.png">
 </p>
+
+### SteamVR
+[Back to the Top](#table-of-contents)
 
 [SteamVR](https://store.steampowered.com/steamvr) is the ultimate tool for experiencing VR content on the hardware of your choice. SteamVR supports the Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality headsets, and others.
 
@@ -239,6 +300,10 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <img alt="[gear-vr" src="https://user-images.githubusercontent.com/18353476/28398251-27e2fe5e-6cbb-11e7-9d5a-7ecd3d154f4f.jpg">
 </p>
 
+### Perception Neuron Motion Capture Suit
+
+[Back to the Top](#table-of-contents)
+
 [Perception Neuron Motion Capture Suit](https://neuronmocap.com/products-fullwidth?field_category_value=PN) is a series of industry-leading motion capture solutions designed for every type of creator, from the amateur 3D animator to the VFX pro.
 
 <p align="center">
@@ -249,19 +314,6 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
   <img alt="[perceptionneuron" src="https://user-images.githubusercontent.com/18353476/27672571-b08bed9a-5c50-11e7-9daf-cff544e88a36.jpg">
 </p>
 
-[OpenVR](https://github.com/ValveSoftware/openvr) is an API and runtime that allows access to VR hardware(Steam Index, HTC Vive, and Oculus Rift) from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting.
-
-[OpenVR Benchmark on Steam](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset.
-
-[OpenHMD](http://www.openhmd.net/) is open source API and drivers that supports a wide range of HMD(head-mounted display) devices such as Oculus Rift, HTC Vive, Sony PSVR, and others.
-
-[openXR](https://www.khronos.org/OpenXR/) is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices.
-
-[Monado](https://monado.dev/) is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.
-
-[Libsurvive](https://github.com/cntools/libsurvive) is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
-
-[Simula](https://github.com/SimulaVR/Simula) is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156)).
 
 # Vulkan Development
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
