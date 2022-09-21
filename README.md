@@ -22,7 +22,11 @@
    * [AR/VR Training Courses](https://github.com/mikeroyal/AR-VR-Guide#arvr-traininglearning-courses)
 
 2. [AR/VR Tools, Frameworks, and Hardware](https://github.com/mikeroyal/AR-VR-Guide#arvr-tools-frameworks-and-hardware)
-
+    
+    * [Tools & Frameworks](https://github.com/mikeroyal/AR-VR-Guide#tools--frameworks)
+    
+    * [Unreal Engine 5 Development](https://github.com/mikeroyal/AR-VR-Guide#unreal-engine-5-development)
+    
     * [Microsoft HoloLens Headset](https://github.com/mikeroyal/AR-VR-Guide#Microsoft-HoloLens-Headset)
 
     * [PlayStation® VR Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-Headset)
@@ -128,6 +132,8 @@
 # AR/VR Tools, Frameworks, and Hardware
 [Back to the Top](https://github.com/mikeroyal/AR-VR-Guide#table-of-contents)
 
+### Tools & Frameworks
+
 [Reality Composer](https://developer.apple.com/augmented-reality/tools/) is a powerful tool that makes it easy for you to create interactive augmented reality experiences with no prior 3D experience. The Reality Converter quickly converts your existing 3D models to [USDZ](https://graphics.pixar.com/usd/files/USDZFileFormatSpecification.pdf) so it works seamlessly in our tools and on all AR-enabled iPhone and iPad devices.
 
 [ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
@@ -190,6 +196,150 @@ ALVR uses technologies like [Asynchronous Timewarp](https://developer.oculus.com
 [Libsurvive](https://github.com/cntools/libsurvive) is a set of tools and libraries that enable 6 dof tracking on lighthouse and vive based systems that is completely open source and can run on any device. It currently supports both SteamVR 1.0 and SteamVR 2.0 generation of devices and should support any tracked object commercially available.
 
 [Simula](https://github.com/SimulaVR/Simula) is a VR window manager for Linux that runs on top of Godot. It takes less than 1 minute to install. Simula is officially compatible with SteamVR headsets equipped with Linux drivers (e.g. HTC Vive, HTC Vive Pro, & Valve Index). We have also added experimental support to OpenXR headsets that have Monado drivers (e.g. North Star, OSVR HDK, and PSVR). Some people have gotten the Oculus Rift S to run Simula via OpenHMD ([see here](https://github.com/OpenHMD/OpenHMD/issues/225#issuecomment-638454156)).
+
+### Unreal Engine 5 Development
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/162537763-308611ef-a619-4fcd-99bf-bfe328c50f27.png">
+  <br />
+</p>
+
+[Unreal Engine 5](https://www.unrealengine.com/unreal-engine-5) is a game engine developed by Epic Games with the world's most open and advanced real-time 3D creation tool. Continuously evolving to serve not only its original purpose as a state-of-the-art game engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/162538256-a3390573-88b8-4925-a92e-70a56da951b3.png">
+  <br />
+  Unreal Engine 5 with Big City Sample Project
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146693087-56cfbc91-3398-425c-90a1-6a2479ca3fce.png">
+  <br />
+</p>
+
+ Unreal Engine Twinmotion. Source: [Unreal Engine](https://www.unrealengine.com/en-US/blog/twinmotion-2021-1-is-here)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/180627376-15ab099e-f433-4e0b-bf29-3ebf48b95fe8.png">
+  <br />
+  Unreal Engine 5 Project browser
+</p>
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/180627379-afa5a3d7-c50a-4d9f-94c8-3b14d39cea36.png">
+  <br />
+  Unreal Engine 5 Vehicle Project Demo
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/172468555-e7f7b4d6-1ba0-4f37-b3dd-f6b17c90b0f1.png">
+  <br />
+  Unreal Engine Marketplace
+</p>
+
+#### Unreal Engine Tools
+[Back to the Top](#table-of-contents)
+
+[Blueprint Visual Scripting](https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html) is a complete gameplay scripting system in Unreal Engine based on the concept of using a node-based interface to create gameplay elements from within Unreal Editor. As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/180627381-f123e873-909c-410a-887e-51b2ba659439.png">
+  <br />
+ Blueprint Visual Scripting UI 
+</p>
+
+[Datasmith](https://www.unrealengine.com/en-US/datasmith) is a collection of tools and plugins that bring entire pre-constructed scenes and complex assets created in a variety of industry-standard design applications into Unreal Engine.
+
+[Lumen](https://docs.unrealengine.com/5.0/en-US/RenderingFeatures/Lumen/TechOverview/) is an Unreal Engine 5 feature that uses multiple ray tracing methods to solve Global Illumination and Reflections. Screen traces are done first, followed by a more reliable method. It uses Software Ray Tracing through Signed Distance Fields by default, but can achieve higher quality on supporting video cards when Hardware Ray Tracing is enabled.
+
+[Nanite](https://docs.unrealengine.com/5.0/en-US/RenderingFeatures/Nanite/) is Unreal Engine 5's new virtualized geometry system which uses a new internal mesh format and rendering technology to render pixel scale detail and high object counts. It intelligently does work on only the detail that can be perceived and no more.
+
+[Niagara VFX System](https://docs.unrealengine.com/5.0/en-US/RenderingAndGraphics/Niagara/) is one of two tools you can use to create and adjust visual effects (VFX) inside Unreal Engine 5 (UE5). Before Niagara, the primary way to create and edit visual effects in UE4 was to use [Cascade](https://docs.unrealengine.com/4.27/en-US/RenderingAndGraphics/ParticleSystems). It has many of the same of particle manipulation methods that Cascade offers, the way you interact and build visual effects with Niagara is vastly different.
+
+[Chaos Physics](https://docs.unrealengine.com/5.0/en-US/InteractiveExperiences/Physics/ChaosPhysics/Overview/) is a Beta feature that is the light-weight physics simulation solution used in Fortnite, and it includes the following major features.
+
+   * RBAN (Rigid Body Animation Nodes)
+   * Destruction
+   * Cloth
+   * Ragdoll
+   * Vehicles
+
+[MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman-creator) is a free cloud-based app that empowers anyone to create photorealistic digital humans, complete with hair and clothing, in minutes. MetaHumans come fully rigged and ready to animate in your Unreal Engine projects.
+
+[Twinmotion](https://www.twinmotion.com/en-US) is a real-time 3D immersion software that produces high-quality images, panoramas and standard or 360° VR videos in seconds. Developed for architecture, construction, urban planning and landscaping professionals.
+
+[Bridgew by Quixel](https://www.unrealengine.com/en-US/bridge) is a gateway to create a world of 3D content right inside the Unreal Engine. it includes Megascans—the world's largest library of AAA, cinema-quality assets based on real-world scan data.
+
+[Unreal Engine Marketplace](https://unrealengine.com/marketplace/en-US/store) is Unreal Engine's Store that has a library Of Textures, Models, Animations, Tutorials, and More for creating amazing 3D projects and games.
+
+[UnrealBuildTool (UBT)](https://docs.unrealengine.com/5.0/en-US/ProductionPipelines/BuildTools/UnrealBuildTool) is a tool that manages the process of building UE4 source code across a variety of build configurations.
+
+[UnrealHeaderTool (UHT)](https://docs.unrealengine.com/5.0/en-US/ProductionPipelines/BuildTools/UnrealHeaderTool) is a custom parsing and code-generation tool supporting the UObject system.
+
+[AutomationTool](https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/BuildTools/AutomationTool) is a generic system used to automate processes, including testing and building games.
+
+[Proxy Geometry Tool](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/ProxyGeoTool/) is a tool-set that was developed as a way to increase your Unreal Engine 4 (UE4) project's performance while keeping the visual quality of your project uneffected.
+
+[Replay System](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/ReplaySystem/) is a tool which can record gameplay for later viewing. This feature is available in all games, from live, multiplayer games played on dedicated servers, to single-player games, and even including Play-In-Editor sessions. At a high level, the Replay system works by using a DemoNetDriver to read data drawn from the built-in replication system, similar to how a NetDriver operates in a live, networked gameplay environment.
+
+#### Developer Resources
+[Back to the Top](#table-of-contents)
+
+**Note:** you will need to create an Epic Games account to download Unreal Engine.
+
+ * [Sign-up for Epic Games Acount](https://www.epicgames.com/account/password)
+ 
+ * [Sign-up for Epic Games GitHub](https://github.com/EpicGames/Signup)
+
+ * [How to migrate your Unreal Engine 4 projects to Unreal Engine 5 Early Access quickly and smoothly](https://docs.unrealengine.com/5.0/en-US/MigrationGuide/)
+
+ * [Multi-platform development - Unreal Engine](https://www.unrealengine.com/en-US/features/multi-platform-development)
+
+ * [Unreal Engine 5 Documentation](https://docs.unrealengine.com/5.0/)
+
+ * [Unreal Engine Forums](https://forums.unrealengine.com/)
+ 
+ * [Windows Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/)
+ 
+ * [macOS Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/hardware-and-software-specifications-for-unreal-engine/)
+ 
+ * [Linux Development Requirements for Unreal Engine](https://docs.unrealengine.com/5.0/en-US/linux-development-requirements-for-unreal-engine/)
+ 
+ * [iOS, iPadOS, and tvOS Development on Unreal Engine](https://docs.unrealengine.com/5.0/en-US/ios-ipados-and-tvos-support-for-unreal-engine/)
+ 
+ * [Android Development on Unreal Engine](https://docs.unrealengine.com/5.0/en-US/android-support-for-unreal-engine)
+ 
+ * [XR Development on Unreal Engine](https://docs.unrealengine.com/5.0/en-US/developing-for-xr-experiences-in-unreal-engine)
+
+ * [Setting Up Visual Studio for Unreal Engine](https://docs.unrealengine.com/en-us/Programming/Development/VisualStudioSetup)
+
+ * [Unreal Engine Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/TestingAndOptimization/PerformanceAndProfiling/)
+
+ * [Unreal Engine C++ API Reference](https://docs.unrealengine.com/5.0/en-US/API/index.html)
+
+ * [Unreal Engine Blueprint API Reference](https://docs.unrealengine.com/5.0/en-US/BlueprintAPI/index.html)
+
+ * [Unreal Engine Python API Reference](https://docs.unrealengine.com/5.0/en-US/PythonAPI/index.html)
+ 
+  * [Unreal Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses) 
+ 
+ * [Unreal Engine Authorized Training Program](https://www.unrealengine.com/en-US/training-partners) 
+
+ * [Unreal Engine for education](https://www.unrealengine.com/en-US/education/)
+
+ * [Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
+ 
+ * [Unreal Engine | NVIDIA Developer](https://developer.nvidia.com/unrealengine)
+
+ * [Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
+
+ * [Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
+
+ * [Getting Started with Vulkan](https://www.khronos.org/vulkan/)
+
+ * [Getting Started with Apple Metal](https://developer.apple.com/metal/)
 
 ### Microsoft HoloLens Headset
 [Back to the Top](#table-of-contents)
