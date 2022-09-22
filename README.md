@@ -27,6 +27,8 @@
     
     * [Unreal Engine 5 Development](https://github.com/mikeroyal/AR-VR-Guide#unreal-engine-5-development)
     
+    * [Unity Development](https://github.com/mikeroyal/AR-VR-Guide#unity-development)
+    
     * [Microsoft HoloLens Headset](https://github.com/mikeroyal/AR-VR-Guide#Microsoft-HoloLens-Headset)
 
     * [PlayStation® VR Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-Headset)
@@ -334,6 +336,135 @@ ALVR uses technologies like [Asynchronous Timewarp](https://developer.oculus.com
  * [Unreal Engine Training & Simulation](https://www.unrealengine.com/en-US/industry/training-simulation)
  
  * [Unreal Engine | NVIDIA Developer](https://developer.nvidia.com/unrealengine)
+
+ * [Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
+
+ * [Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
+
+ * [Getting Started with Vulkan](https://www.khronos.org/vulkan/)
+
+ * [Getting Started with Apple Metal](https://developer.apple.com/metal/)
+ 
+
+###  Unity Development
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/147710942-5da4fef2-5525-4942-98bc-81421b2144e5.png">
+  <br />
+
+</p>
+
+[Unity](https://unity.com) is a cross-platform game development platform. Unity can be used to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers. Checkout the [Unity Manual](https://docs.unity3d.com/Manual/UnityOverview.html) to get started on your Unity projects.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146693059-97d5428c-cf3c-48f4-bb29-d35e4044d1d9.png">
+  <br />
+</p>
+
+Unity Terrain project. Source: [Unity](https://blog.unity.com/technology/evolving-the-unity-editor-ux)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146693060-93465a17-9ae8-48aa-8d4b-6eee3e05b756.png">
+  <br />
+  Unity Hub Installs
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/147710657-16a6e35a-c78e-408b-a836-45b21a342f11.png">
+  <br />
+  Unity Asset Store
+</p>
+
+#### Unity Tools
+[Back to the Top](#table-of-contents)
+
+[Unity Hub](https://unity.com/unity-hub) is a tool that helps manage multiple installations of the Unity Editor, create new projects, and access your work.
+
+[Unity Asset Store](https://assetstore.unity.com)is Unity's Store that has a library Of Textures, Models, Animations, Tutorials, and More for creating amazing 3D projects and games.
+
+[Unity Plus](https://store.unity.com/products/unity-plus) is a version of Unity for small businesses and serious hobbyists get more functionality and training resources to power up their projects.
+
+[Unity Pro](https://store.unity.com/products/unity-pro) is a version of Unity to create and operate amazing applications and immersive experiences with a complete solution for professionals across industries.
+
+[Unity Enterprise](https://store.unity.com/products/unity-enterprise) is a version of Unity for large teams creating at scale, Unity Enterprise delivers comprehensive technology, resources, and support that fuel innovation, reduce risk, and power your success.
+
+[Unity XR](https://docs.unity3d.com/Manual/XR.html) is a plug-in framework that enables XR providers to integrate with the Unity engine and make full use of its features.
+
+[Unity MARS](https://unity.com/products/unity-mars) is a tool that helps you create augmented reality (AR) apps with better workflows and purpose built authoring tools.
+
+[Unity Build Server](https://unity.com/products/unity-build-server) is a tool that offloads your Unity project builds to network hardware, empowering your creative team to iterate more, produce higher quality products, and ship on time.
+
+[Unity Teams](https://unity.com/products/unity-teams) is a tool that helps you and your team create together, faster. It makes it simple to save, share and sync your Unity projects with anyone.
+
+[Unity Automated QA](https://unity.com/products/automated-qa) is a tool that shortens the development feedback loop with on-demand tests that anyone on your team can create and run without writing code.
+
+[Unity Simulation Pro](https://unity.com/products/unity-simulation-pro) is a tool that unlocks the true power of scalable simulations through a simulation-optimized version of the Unity runtime.
+
+[Unity Forma](https://unity.com/products/unity-forma) is a tool that brings the power of real-time 3D to your marketing. It turns 3D product data into interactive 3D configurators, stunning images and more.
+
+[Unity Reflect](https://unity.com/products/unity-reflect) is a tool that helps create an experience immersive and collaborative real-time 3D environments, including in AR and VR, for better decision-making across your entire project lifecycle.
+
+[Unity Reflect Develop](https://unity.com/products/unity-reflect-develop) is a tool that builds your own custom applications to address any problem across the entire building and infrastructure lifecycle for internal or commercial deployment.
+
+[Unity ArtEngine](https://unity.com/products/unity-artengine) is Unity’s material authoring tool. Harnessing the power of assisted creation, the tool helps creators accelerate production pipelines.
+
+[Unity Machine Learning Agents](https://unity.com/products/machine-learning-agents) is a tol that helps train and embed intelligent agents by leveraging state-of-the-art deep learning technology.
+
+[Unity Essential Success ](https://unity.com/products/unity-essential-success) is a tool that is your dedicated Support Coordinator and experienced Unity engineers are ready to help.
+
+[Bolt Visual scripting](https://unity.com/products/unity-visual-scripting) is a tool in Unity empowers creators to develop gameplay mechanics or interaction logic with a visual, graph-based system, instead of writing traditional lines of code.
+
+[VisualLive](https://unity.com/products/visuallive) is a tool for construction professionals can visualize designs and collaborate in real-time by overlaying large BIM and CAD files onto jobsites using AR.
+
+[Professional Services: Optimization Accelerator](https://unity.com/products/optimization-accelerator) is atool that boosts your project and your productivity in a four-day sprint with hands-on guidance from a Unity engineer. It will help you analyze performance problems, test solutions, and implement improvements.
+
+[Odin Inspector Enterprise](https://unity.com/products/odin) is a tool that optimizes your project workflows and save thousands of development hours.
+
+[Multiplay](https://unity.com/products/multiplay) is a resilient, multicloud hybrid server hosting and matchmaking platform without having to build and maintain your own infrastructure. Proven at scale in some of the world’s biggest games.
+
+[Vivox](https://unity.com/products/vivox) is a voice and text comms tool that boosts player engagement, retention rates and create immersive multiplayer experiences by leveraging an easy-to-implement, feature-rich voice and text chat service.
+
+[Relayᴮᴱᵀᴬ](https://unity.com/products/relay) is a tool that provides a great multiplayer gaming experiences with Unity’s Relay service that's now in open beta.
+
+[Lobbyᴮᴱᵀᴬ](https://unity.com/products/lobby) is a tool that connects your players for great multiplayer gaming experiences with Lobby that's now in Open Beta.
+
+[Cloud Codeᴮᴱᵀᴬ](https://unity.com/products/cloud-code) is a tool that runs your game logic in the cloud as serverless functions and interact with other backend services.
+
+[Cloud Saveᴮᴱᵀᴬ](https://unity.com/products/cloud-save) is a tool that builds better player experiences by storing game data to the cloud.
+
+[Furioos](https://unity.com/products/furioos) is a tool that streams fully interactive 3D experiences from Unity, other real-time 3D platforms, and Windows applications with peak visual quality in any web browser.
+
+[OctaneRender® for Unity](https://unity.com/products/otoy-octanerender) is a tool that lets you harness physically accurate rendering directly in Unity and compose gorgeous, cinematic-quality scenes with OctaneRender materials and lighting.
+
+[Pacelab WEAVR](https://unity.com/products/weavr) is a tool that provides a complete XR platform that enables any company, in any industry, to develop and manage enterprise-scale immersive training.
+
+[Interact](https://unity.com/products/interact) is a tool that creates advanced real-time, human-centric simulations on any VR configuration for training, visualization, and safety.
+
+[Prespective](https://unity.com/products/prespective) is a tool that helps you design and simulate your machine, factory, or system in Unity real-time 3D. Create common ground among stakeholders and speed up decision processes with improved visualization tools.
+
+[Pixyz](https://unity.com/products/pixyz) is a tool that lets you can quickly import, prep, and optimize your large CAD, mesh and point cloud models for real-time visualizations in Unity.
+
+[Backtrace](https://unity.com/products/backtrace) is a game crash management platform that delivers uninterrupted game experiences by automating your response to errors.
+
+[SpeedTree®](https://store.speedtree.com/) is a group of vegetation programming and modeling software products developed and sold by Interactive Data Visualization, Inc. that generates virtual foliage for animations, architecture and in real time for video games and demanding real time simulations. [Unity Technologies acquired SpeedTree in July 2021](https://investors.unity.com/news/news-details/2021/Unity-Acquires-Interactive-Data-Visualization-Inc.-IDV-Creators-of-SpeedTree-Environment-Creation-Suite/default.aspx).
+
+[SyncSketch](https://syncsketch.com) is a collaboration software for visual artists that allows a team to view, review, and provide feedback on each other’s work. It includes support for both 2D and 3D assets as well as video. As of [December 2021 SyncSketch has been acquired by Unity Technologies](https://blog.syncsketch.com/news/sycncsketch-acquired-by-unity/).
+
+
+#### Unity Developer Resources
+[Back to the Top](#table-of-contents)
+
+ * [Unity Knowledge Base](https://support.unity.com/hc/en-us) is a library of articles that helps you troubleshoot common problems, whether it’s creating an account, importing assets, or baking a scene.
+
+ * [Unity Forum](https://forum.unity.com/)
+
+ * [Unity Issue Tracker](https://issuetracker.unity3d.com/)
+
+ * [Unity Certifications](https://unity.com/products/unity-certifications)
+
+ * [Learn game development with Unity](https://learn.unity.com/courses)
 
  * [Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
 
