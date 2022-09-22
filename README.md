@@ -29,6 +29,10 @@
     
     * [Unity Development](https://github.com/mikeroyal/AR-VR-Guide#unity-development)
     
+    * [AMD FidelityFX Super Resolution (FSR)](https://github.com/mikeroyal/AR-VR-Guide#amd-fidelityfx-super-resolution-fsr)
+    
+    * [NVIDIA DLSS](https://github.com/mikeroyal/AR-VR-Guide#nvidia-dlss)
+    
     * [Microsoft HoloLens Headset](https://github.com/mikeroyal/AR-VR-Guide#Microsoft-HoloLens-Headset)
 
     * [PlayStation® VR Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-Headset)
@@ -473,6 +477,44 @@ Unity Terrain project. Source: [Unity](https://blog.unity.com/technology/evolvin
  * [Getting Started with Vulkan](https://www.khronos.org/vulkan/)
 
  * [Getting Started with Apple Metal](https://developer.apple.com/metal/)
+ 
+
+### AMD FidelityFX Super Resolution (FSR)
+ [Back to the Top](#table-of-contents)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190588167-4fd0bd50-cd43-47f1-b28f-16f70a243549.png">
+  <br />
+</p>
+ 
+* **[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
+
+* **[AMD FidelityFX Super Resolution (FSR) 2.0](https://github.com/GPUOpen-Effects/FidelityFX-FSR2)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution.
+
+* **[AMD Open Source Driver for Vulkan®](https://github.com/GPUOpen-Drivers/AMDVLK)** is an open-source Vulkan driver for Radeon™ graphics adapters on Linux®. It is built on top of AMD's Platform Abstraction Library (PAL), a shared component that is designed to encapsulate certain hardware and OS-specific programming details for many of AMD's 3D and compute drivers. 
+
+* **[Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/)** is a library provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage. 
+
+* **[Radeon™ Raytracing Analyzer (RRA)](https://gpuopen.com/radeon-raytracing-analyzer/)** is a tool that investigates the performance of your raytracing applications and highlight potential bottlenecks.
+
+* **[Radeon™ GPU Profiler](https://gpuopen.com/rgp/)** is a low-level optimization tool that provides detailed information on Radeon™ GPUs.
+
+* **[Radeon™ GPU Analyzer](https://gpuopen.com/rga/)** is an offline compiler and performance analysis tool for DirectX®, Vulkan®, SPIR-V™, OpenGL®, and OpenCL™. It can be used together with [RGP](https://gpuopen.com/rgp/), [RMV](https://gpuopen.com/rmv/), and [RDP](https://gpuopen.com/rdp/).
+
+ * **[Radeon™ Developer Panel (RDP)](https://gpuopen.com/rdp/)** is an essential part of the Radeon™ Developer Tool Suite. It provides the communication channel that delivers requests to, and receives data from, the AMD Radeon™ driver.
+ 
+### NVIDIA DLSS
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189858113-0d681062-8bd5-4db9-b92b-71bec318f2f5.png">
+  <br />
+</p>
+
+* **[NVIDIA DLSS (Deep Learning Super Sampling)](https://developer.nvidia.com/dlss)** is a temporal image upscaling AI rendering technology that increases graphics performance using dedicated Tensor Core AI processors on GeForce RTX™ GPUs. DLSS uses the power of a deep learning neural network to boost frame rates and generate beautiful, sharp images for your games.
+
+* **[NVIDIA Image Scaling (NIS)](https://developer.nvidia.com/rtx/image-scaling)** is an open-source spatial upscaler and sharpening algorithm that works cross-platform on all GPUs. It's similar to  AMD's FidelityFX Super Resolution (FSR) solution.
+
 
 ### Microsoft HoloLens Headset
 [Back to the Top](#table-of-contents)
