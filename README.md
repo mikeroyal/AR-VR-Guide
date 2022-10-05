@@ -40,8 +40,10 @@
     * [PlayStation®VR 2 Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-2-Headset)
 
     * [Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
+    
+    * [Apple Reality Pro Headset](https://github.com/mikeroyal/AR-VR-Guide#apple-reality-pro-headset)
 
-    * [RealityOS](https://github.com/mikeroyal/AR-VR-Guide#RealityOS)
+       * [RealityOS](https://github.com/mikeroyal/AR-VR-Guide#RealityOS)
 
     * [HTC Vive Headset](https://github.com/mikeroyal/AR-VR-Guide#HTC-Vive-Headset)
   
@@ -562,7 +564,62 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
  Oculus Quest 2 Headset. Source: [Oculus](https://www.oculus.com/quest-2/)
  
- ### RealityOS
+ ### Apple Reality Pro Headset
+ 
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194017309-b3bbb8c3-5194-44f9-a874-5dab9412c6c3.png">
+  <br />
+  Apple Reality Pro Headset Render
+</p>
+
+Reality Pro Headset based on [purported information](https://www.macrumors.com/2021/02/04/apple-mixed-reality-headset-features-report/) by [Ian Zelbo](https://zelbo.nyc/)
+
+**Patents:** 
+ 
+ * [Reality Pro](https://trademarks.justia.com/975/52/reality-97552845.html),
+ * [Reality One](https://trademarks.justia.com/975/46/reality-97546126.html),
+ * and [Reality Processor](https://trademarks.justia.com/975/41/reality-97541320.html).
+
+ **Apple Headset Specs(subject to change):**
+   
+   * High-resolution 4K micro OLED displays.
+   * Display Pixel Size will be between 3000 ppi-4000 ppi.
+   * Display offers a brightness of 5,000 nits.
+   * The color gamut is quoted as DCI > 97% DCI.
+   * 12 optical cameras for tracking movements, mapping the environment, and projecting visual experiences. 
+   * WiFi 6E, which adds 6GHz spectrum to the 2.4GHz & 5GHz bands for increased bandwidth and less device interference.
+
+OLEDoS (OLED on Silicon) is a display panel that typically has a diagonal length of less than 1 inch and meets the 3000 ppi-4000 ppi resolution criteria of AR/VR device displays. Existing OLED displays use Low-Temperature-Poly-Silicon (LTPS) or Oxide TFT based on glass substrates. OLEDoS uses silicon-wafer-based CMOS substrates. Using silicon substrates, ultra-fine circuit structures typically used in semiconductor processes can be reproduced, which in turn lead to the creation of ultra-high-resolution OLEDs when organic matter is deposited on them.
+
+ **LG OLEDoS Display Specs:**
+ 
+   * High-resolution 4K micro OLED displays.
+   * Display Pixel Size will be between 3000 ppi-4000 ppi.
+   * Display offers a brightness of 5,000 nits.
+   * The color gamut is quoted as DCI > 97% DCI.
+ 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194017317-b1dbda21-5935-47ef-8843-137cc5540b60.png">
+  <br />
+ OLEDoS: Solution for ultra-high resolution
+</p>
+
+Credit: [LG](https://www.lgdisplay.com/eng/technology/oled)
+
+OLEDoS is also called Micro OLED in the market and features high efficiency, high luminance, infinite contrast, fast response and long LED life compared to OLED. The size is smaller than 1 inch, the user does not see the panel directly but sees the enlarged image through the optical lens. When used on AR/VR equipment, it shows high resolution in a small, lightweight wearable device.
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194017320-f7631398-a661-401d-9e6f-77d061c8d303.png">
+  <br />
+  Specs for OLED and OLEDoS
+</p>
+
+Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_microdisplay/)
+ 
+#### RealityOS
 [Back to the Top](#table-of-contents)
 
 [RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by one of Apple's Silicon series chip.
@@ -610,6 +667,8 @@ SteamVR Home
 </p>
 
 Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveindex)
+
+### Samsung Gear VR Headset
 
 [Samsung Gear VR Headset](https://www.samsung.com/global/galaxy/gear-vr/) is a virtual reality headset developed by Samsung along with collaboration from Oculus VR. 
 
