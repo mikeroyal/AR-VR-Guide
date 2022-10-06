@@ -518,6 +518,12 @@ Unity Terrain project. Source: [Unity](https://blog.unity.com/technology/evolvin
 
 * **[NVIDIA Image Scaling (NIS)](https://developer.nvidia.com/rtx/image-scaling)** is an open-source spatial upscaler and sharpening algorithm that works cross-platform on all GPUs. It's similar to  AMD's FidelityFX Super Resolution (FSR) solution.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194257151-bee27128-149d-487b-a758-a34d54077292.gif">
+  <br />
+</p>
+
+AMID EVIL NVIDIA DLSS demo. Credit: [NVIDIA](https://www.nvidia.com/en-us/geforce/news/may-2021-rtx-dlss-game-update/) and [AMID EVIL](https://store.steampowered.com/app/673130/AMID_EVIL/)
 
 ### Microsoft HoloLens Headset
 [Back to the Top](#table-of-contents)
@@ -669,15 +675,15 @@ Apple AR/VR concept by Dominik Hofacker. Credit: [Dominik Hofacker](https://www.
 
 [HTC Vive Headset](https://www.vive.com/) is a virtual reality headset developed by HTC.
 
-  - [Getting Started with OpenVR in Unity](https://docs.unity3d.com/Manual/VRDevices-OpenVR.html)
+  * [Getting Started with OpenVR in Unity](https://docs.unity3d.com/Manual/VRDevices-OpenVR.html)
 
-  - [SteamVR Plugin](https://assetstore.unity.com/packages/templates/systems/steamvr-plugin-32647)
+  * [SteamVR Plugin](https://assetstore.unity.com/packages/templates/systems/steamvr-plugin-32647)
 
-  - [Vive Studios](https://developer.vive.com/us/vive-studios/)
+  * [Vive Studios](https://developer.vive.com/us/vive-studios/)
 
-  - [Vive Tracker](https://developer.vive.com/us/vive-tracker-for-developer/)
+  * [Vive Tracker](https://developer.vive.com/us/vive-tracker-for-developer/)
 
-  - [Vive Community](https://community.viveport.com/)
+  * [Vive Community](https://community.viveport.com/)
 
 <p align="center">
   <img alt="[htc-vive" src="https://user-images.githubusercontent.com/18353476/39963101-3a2e5f36-5617-11e8-96d9-cfdc5e1dcafe.png">
@@ -706,13 +712,13 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Samsung Gear VR Headset](https://www.samsung.com/global/galaxy/gear-vr/) is a virtual reality headset developed by Samsung along with collaboration from Oculus VR. 
 
-   - [Mobile Development with Unity and Unreal](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-game-engine/#mobile-game-engine)
+   * [Mobile Development with Unity and Unreal](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-game-engine/#mobile-game-engine)
 
-   - [Preparing for Mobile Development](https://developer.oculus.com/documentation/unity/latest/concepts/unity-mobileprep/)
+   * [Preparing for Mobile Development](https://developer.oculus.com/documentation/unity/latest/concepts/unity-mobileprep/)
 
-   - [Gear VR Device Setup](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-device-setup/)
+   * [Gear VR Device Setup](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-device-setup/)
 
-   - [Building Gear VR apps in Unity](https://developer.oculus.com/documentation/unity/latest/concepts/unity-build-android/#unity-build-android-store)
+   * [Building Gear VR apps in Unity](https://developer.oculus.com/documentation/unity/latest/concepts/unity-build-android/#unity-build-android-store)
 
 <p align="center">
   <img alt="[gear-vr" src="https://user-images.githubusercontent.com/18353476/28398251-27e2fe5e-6cbb-11e7-9d5a-7ecd3d154f4f.jpg">
