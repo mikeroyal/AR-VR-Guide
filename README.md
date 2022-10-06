@@ -39,7 +39,10 @@
 
     * [PlayStation®VR 2 Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-2-Headset)
 
-    * [Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
+    * [Oculus Quest Headsets](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-headsets)
+       *[Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
+       *[Oculus Quest 3](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-3)
+       *[Oculus Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-Pro)
     
     * [Apple Reality Pro Headset](https://github.com/mikeroyal/AR-VR-Guide#apple-reality-pro-headset)
 
@@ -560,7 +563,28 @@ PlayStation VR Headset. Source: [PlayStation](https://www.playstation.com/en-us/
 
 PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-us/ps-vr2/)
 
-### Oculus Quest 2
+### Oculus Quest Headsets
+[Back to the Top](#table-of-contents)
+
+* [Getting Started with Oculus](https://developer.oculus.com/get-started/)
+ 
+[Oculus Developer Hub (ODH) for Windows](https://developer.oculus.com/downloads/package/oculus-developer-hub-win) is a desktop companion tool that streamlines app development for the Oculus Quest.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194257187-6e4e6493-7333-48ce-9586-6fe5f2083a64.png">
+  <br />
+  Oculus Developer Hub (ODH)
+</p>
+
+[Oculus Developer Hub (ODH) for macOS](https://developer.oculus.com/downloads/package/oculus-developer-hub-mac) is a desktop companion tool that streamlines app development for the Oculus Quest.
+ 
+[Oculus Integration SDK](https://developer.oculus.com/downloads/package/unity-integration) is a toolkit that provides tools for Unity packages OVRPlugin, Interaction SDK (Experimental), Platform SDK, Voice SDK, Audio SDK, and Lipsync SDK. 
+
+[OVR Metrics Tool](https://developer.oculus.com/downloads/package/ovr-metrics-tool) is a  tool that provides performance metrics for Quest and Quest 2, including frame rate, heat, GPU & CPU throttling values, tears and stale frames per second. 
+
+[GPU Systrace](https://developer.oculus.com/downloads/package/gpu-systrace) is a utility that contains required files to modify the Android SDK tool Systrace in order to provide low-level GPU pipeline data for apps running on Quest and Quest 2.
+
+#### Oculus Quest 2
 [Back to the Top](#table-of-contents)
 
 [Oculus Quest 2](https://www.oculus.com/quest-2/) is a virtual reality headset developed by Facebook AKA Meta Technologies, LLC. The Quest 2 provides multiplayer games to unique social experiences to joining up with friends at a live show or instructor-led workout. With High Dynamic Range visuals and up to 120fps, as two 1832x1920 per-eye and vast 97° field of view horizontal. Oculus Quest 2 can be connected to a PC via Oculus Link, which can be performed using the official Link cable or a third party USB-C cable. This allows the headset to be used to run content from SteamVR and the desktop Oculus store. Note that a high-bandwidth USB specification (USB 3.0 at a minimum) is required to achieve a high-quality and smooth picture.
@@ -570,6 +594,32 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 </p>
 
  Oculus Quest 2 Headset. Source: [Oculus](https://www.oculus.com/quest-2/)
+ 
+ #### Oculus Quest 3
+ [Back to the Top](#table-of-contents)
+ 
+ **Oculus Quest 3 Specs (Subject to change):**
+
+ * 2,160 by 2,160 pixels per display.
+ * 120-144Hz refresh rate.
+ * 2x more performance than Quest 2.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194257196-9d0da1e0-7bc3-4f11-8be0-9dd07ba2d590.png">
+  <br />
+</p>
+
+Oculus Quest 3 Headset Render by [Brad Lynch](https://twitter.com/SadlyItsBradley/status/1514244197804609536)
+
+#### Meta Quest Pro
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/194257204-65065dc3-df74-440d-8b50-db4d1aaaf65d.png">
+  <br />
+</p>
+
+Oculus Quest Pro Headset Render. Credit: [Meta](https://www.meta.com/quest/)
  
  ### Apple Reality Pro Headset
  
