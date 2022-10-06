@@ -43,11 +43,11 @@
        
        * [Oculus Developer Tools](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Developer-Tools)
     
-       * [Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
+       * [Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Quest-2)
        
-       * [Oculus Quest 3](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-3)
+       * [Quest 3](https://github.com/mikeroyal/AR-VR-Guide#Quest-3)
        
-       * [Oculus Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-Pro)
+       * [Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Quest-Pro)
     
     * [Apple Reality Pro Headset](https://github.com/mikeroyal/AR-VR-Guide#apple-reality-pro-headset)
 
@@ -591,7 +591,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 [GPU Systrace](https://developer.oculus.com/downloads/package/gpu-systrace) is a utility that contains required files to modify the Android SDK tool Systrace in order to provide low-level GPU pipeline data for apps running on Quest and Quest 2.
 
-#### Oculus Quest 2
+#### Quest 2
 [Back to the Top](#table-of-contents)
 
 [Oculus Quest 2](https://www.oculus.com/quest-2/) is a virtual reality headset developed by Facebook AKA Meta Technologies, LLC. The Quest 2 provides multiplayer games to unique social experiences to joining up with friends at a live show or instructor-led workout. With High Dynamic Range visuals and up to 120fps, as two 1832x1920 per-eye and vast 97° field of view horizontal. Oculus Quest 2 can be connected to a PC via Oculus Link, which can be performed using the official Link cable or a third party USB-C cable. This allows the headset to be used to run content from SteamVR and the desktop Oculus store. Note that a high-bandwidth USB specification (USB 3.0 at a minimum) is required to achieve a high-quality and smooth picture.
@@ -602,7 +602,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
  Oculus Quest 2 Headset. Source: [Oculus](https://www.oculus.com/quest-2/)
  
- #### Oculus Quest 3
+ #### Quest 3
  [Back to the Top](#table-of-contents)
  
  **Oculus Quest 3 Specs (Subject to change):**
@@ -618,7 +618,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 Oculus Quest 3 Headset Render by [Brad Lynch](https://twitter.com/SadlyItsBradley/status/1514244197804609536)
 
-#### Oculus Quest Pro
+#### Quest Pro
 [Back to the Top](#table-of-contents)
 
 <p align="center">
