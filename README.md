@@ -573,7 +573,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 #### Oculus Developer Tools
 
-* [Getting Started with Oculus](https://developer.oculus.com/get-started/)
+* [Getting Started with Oculus](https://developer.oculus.com/quest/)
  
 [Oculus Developer Hub (ODH) for Windows](https://developer.oculus.com/downloads/package/oculus-developer-hub-win) is a desktop companion tool that streamlines app development for the Oculus Quest.
 
