@@ -40,8 +40,11 @@
     * [PlayStation®VR 2 Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-2-Headset)
 
     * [Oculus Quest Headsets](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-headsets)
+    
        *[Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
+       
        *[Oculus Quest 3](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-3)
+       
        *[Oculus Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-Pro)
     
     * [Apple Reality Pro Headset](https://github.com/mikeroyal/AR-VR-Guide#apple-reality-pro-headset)
