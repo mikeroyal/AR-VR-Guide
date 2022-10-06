@@ -40,12 +40,14 @@
     * [PlayStation®VR 2 Headset](https://github.com/mikeroyal/AR-VR-Guide#PlayStation-VR-2-Headset)
 
     * [Oculus Quest Headsets](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-headsets)
+       
+       * [Oculus Developer Tools](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Developer-Tools)
     
-       *[Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
+       * [Oculus Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-2)
        
-       *[Oculus Quest 3](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-3)
+       * [Oculus Quest 3](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-3)
        
-       *[Oculus Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-Pro)
+       * [Oculus Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-Pro)
     
     * [Apple Reality Pro Headset](https://github.com/mikeroyal/AR-VR-Guide#apple-reality-pro-headset)
 
@@ -569,6 +571,8 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 ### Oculus Quest Headsets
 [Back to the Top](#table-of-contents)
 
+#### Oculus Developer Tools
+
 * [Getting Started with Oculus](https://developer.oculus.com/get-started/)
  
 [Oculus Developer Hub (ODH) for Windows](https://developer.oculus.com/downloads/package/oculus-developer-hub-win) is a desktop companion tool that streamlines app development for the Oculus Quest.
@@ -614,7 +618,7 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 Oculus Quest 3 Headset Render by [Brad Lynch](https://twitter.com/SadlyItsBradley/status/1514244197804609536)
 
-#### Meta Quest Pro
+#### Oculus Quest Pro
 [Back to the Top](#table-of-contents)
 
 <p align="center">
