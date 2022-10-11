@@ -45,8 +45,6 @@
     
        * [Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Quest-2)
        
-       * [Quest 3](https://github.com/mikeroyal/AR-VR-Guide#Quest-3)
-       
        * [Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Quest-Pro)
     
     * [Apple Reality Pro Headset](https://github.com/mikeroyal/AR-VR-Guide#apple-reality-pro-headset)
@@ -602,31 +600,38 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
  Oculus Quest 2 Headset. Source: [Oculus](https://www.oculus.com/quest-2/)
  
- #### Quest 3
- [Back to the Top](#table-of-contents)
- 
- **Oculus Quest 3 Specs (Subject to change):**
-
- * 2,160 by 2,160 pixels per display.
- * 120-144Hz refresh rate.
- * 2x more performance than Quest 2.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/194257196-9d0da1e0-7bc3-4f11-8be0-9dd07ba2d590.png">
-  <br />
-</p>
-
-Oculus Quest 3 Headset Render by [Brad Lynch](https://twitter.com/SadlyItsBradley/status/1514244197804609536)
-
-#### Quest Pro
+ #### Quest Pro
 [Back to the Top](#table-of-contents)
+ 
+ **Oculus Quest Pro Specs:**
+
+ * Snapdragon XR2+ processor 
+ * 12GB of memory(RAM)
+ * 1800 by 1920 pixels per display.
+ * 90 Hz refresh rate.
+ * 50% more performance than Quest 2.
+ * 1.3x larger color gamut than Quest 2
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/194257204-65065dc3-df74-440d-8b50-db4d1aaaf65d.png">
+<img src="https://user-images.githubusercontent.com/45159366/195200326-8380ec6a-176a-493e-9b88-d7e13bc7e79f.png">
   <br />
 </p>
 
-Oculus Quest Pro Headset Render. Credit: [Meta](https://www.meta.com/quest/)
+Oculus Quest Pro Headset. Credit: [Meta](https://www.meta.com/quest/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/195200328-46251e94-e106-4040-b954-91bd19d7bc54.png">
+  <br />
+</p>
+
+Oculus Quest Pro Headset & Accessories. Credit: [Meta](https://www.meta.com/quest/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/195200334-b31fe9c5-2224-483f-9393-110ebe04ea7e.png">
+  <br />
+</p>
+
+Oculus Quest Pro Controllers. Credit: [Meta](https://www.meta.com/quest/)
  
  ### Apple Reality Pro Headset
  
@@ -652,6 +657,7 @@ Reality Pro Headset based on [purported information](https://www.macrumors.com/2
    * Display Pixel Size will be between 3000 ppi-4000 ppi.
    * Display offers a brightness of 5,000 nits.
    * The color gamut is quoted as DCI > 97% DCI.
+   * 96W USB-C poer adpater.
    * 12 optical cameras for tracking movements, mapping the environment, and projecting visual experiences. 
    * WiFi 6E, which adds 6GHz spectrum to the 2.4GHz & 5GHz bands for increased bandwidth and less device interference.
 
