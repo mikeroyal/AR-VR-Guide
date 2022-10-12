@@ -589,6 +589,14 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 
 [GPU Systrace](https://developer.oculus.com/downloads/package/gpu-systrace) is a utility that contains required files to modify the Android SDK tool Systrace in order to provide low-level GPU pipeline data for apps running on Quest and Quest 2.
 
+[Meta Presence Platform](https://developer.oculus.com/presence-platform/) is a suite of tools that let's you build the future of spatial computing with state-of-the-art AI, machine perception, graphics, and audio technologies, so you can invent experiences that blend the physical and virtual worlds.
+
+[Arkio](https://www.oculus.com/experiences/quest/2280319701979278) is a collaborative design tool that enables you to sketch buildings, interiors or urban plans with others using VR, desktops, tablets and phones. 
+
+[Gravity Sketch](https://www.oculus.com/experiences/quest/1587090851394426) is a 3D design and collaboration tool that enables you to create vehicles, sneakers, furniture, characters, art, and more. Express your ideas with 3D strokes and geometry; solve complex design challenges working directly in 3D at any scale, all with a fun and intuitive toolset that makes working in 3D easy. 
+
+[Immersed](https://www.oculus.com/experiences/quest/2849273531812512) is a free app for multiple virtual screens in VR for Mac/PC/Linux (with no extra hardware) in stunning virtual worlds. It's great for solo work with multiple screens in a virtual coffee shop, or for collaborating with your team around even more screens and whiteboards.
+
 #### Quest 2
 [Back to the Top](#table-of-contents)
 
@@ -602,15 +610,19 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
  
  #### Quest Pro
 [Back to the Top](#table-of-contents)
- 
- **Oculus Quest Pro Specs:**
+
+**Meta Quest Pro($1500 USD, out October 25)** is the first-ever device powered by the new Qualcomm Snapdragon XR2+ platform, which is optimized for VR to run at 50% more power than Meta Quest 2 with better thermal dissipation. Each Meta Quest Pro comes with the following specs:
 
  * Snapdragon XR2+ processor 
  * 12GB of memory(RAM)
- * 1800 by 1920 pixels per display.
+ * Up to 256GB of storage.
  * 90 Hz refresh rate.
  * 50% more performance than Quest 2.
- * 1.3x larger color gamut than Quest 2
+ * 1.3x larger color gamut than Quest 2.
+ * 1800 by 1920 pixels per displa, which is 37% more pixels per inch and 10% greater pixels per degree than Meta Quest 2. 
+ * 10 high-res sensors (five inside the headset and five outside) that help enhance a variety of immersive experiences.
+ * All-new sensor architecture with high-res outward-facing cameras that capture **4x** the pixels as Meta Quest 2’s external cameras.
+ * Charging dock and 45W USB-C power adapter. 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/195200326-8380ec6a-176a-493e-9b88-d7e13bc7e79f.png">
@@ -618,6 +630,13 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 </p>
 
 Oculus Quest Pro Headset. Credit: [Meta](https://www.meta.com/quest/)
+
+#### Quest Pro Accessories:
+  
+  * [Meta Quest Pro Compact Charging Dock ($79.99 USD, out October 25)]()
+  * [Meta Quest Pro VR Earphones ($49.99 USD, out October 25)]()
+  * [Meta Quest Pro Carry Case from Incase ($119.95 USD, out October 25)]()
+  * [Meta Quest Pro Full Light Blocker ($49.99 USD, out November 22)]()
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/195200328-46251e94-e106-4040-b954-91bd19d7bc54.png">
@@ -647,9 +666,10 @@ Reality Pro Headset based on [purported information](https://www.macrumors.com/2
 
 **Patents:** 
  
- * [Reality Pro](https://trademarks.justia.com/975/52/reality-97552845.html),
- * [Reality One](https://trademarks.justia.com/975/46/reality-97546126.html),
- * and [Reality Processor](https://trademarks.justia.com/975/41/reality-97541320.html).
+ * [Reality Pro](https://trademarks.justia.com/975/52/reality-97552845.html)
+ * [Reality One](https://trademarks.justia.com/975/46/reality-97546126.html)
+ * [Reality Processor](https://trademarks.justia.com/975/41/reality-97541320.html)
+ * [Mixed Reality Headset GUI's, how to control menus with Eye Tracking & in-air Micro Gesturing](https://www.patentlyapple.com/patently-apple/2021/04/apple-reveals-more-about-mixed-reality-headset-guis-how-to-control-menus-with-eye-tracking-in-air-micro-gesturing.html)
 
  **Apple Headset Specs(subject to change):**
    
