@@ -619,9 +619,9 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
  * 90 Hz refresh rate.
  * 50% more performance than Quest 2.
  * 1.3x larger color gamut than Quest 2.
- * 1800 by 1920 pixels per displa, which is 37% more pixels per inch and 10% greater pixels per degree than Meta Quest 2. 
- * 10 high-res sensors (five inside the headset and five outside) that help enhance a variety of immersive experiences.
- * All-new sensor architecture with high-res outward-facing cameras that capture **4x** the pixels as Meta Quest 2’s external cameras.
+ * 1800 by 1920 pixels per display, which is 37% more pixels per inch and 10% greater pixels per degree than Meta Quest 2. 
+ * 10 high-res sensors (five inside the headset and five outside).
+ * New sensor architecture with high-res outward-facing cameras that capture **4x** the pixels as Meta Quest 2 cameras.
  * Charging dock and 45W USB-C power adapter. 
 
 <p align="center">
