@@ -2454,6 +2454,8 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Learn C++](https://www.learncpp.com/)
 
+[Learn C++ in Detail](https://www.scaler.com/topics/cpp/)
+
 [Learn C : An Interactive C Tutorial](https://www.learn-c.org/)
 
 [C++ Institute](https://cppinstitute.org/free-c-and-c-courses)
