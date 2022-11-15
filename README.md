@@ -183,6 +183,10 @@
 
 [OpenVX™](https://www.khronos.org/openvx/) is an open-source, royalty-free standard for cross platform acceleration of computer vision applications. OpenVX enables performance and power-optimized computer vision processing, especially important in embedded and real-time use cases such as face, body and gesture tracking, smart video surveillance, advanced driver assistance systems (ADAS), object and scene reconstruction, augmented reality, visual inspection, robotics and more.
 
+[OpenXR](https://www.khronos.org/OpenXR/) is an open, royalty-free standard for access to virtual reality and augmented reality platforms and devices. 
+
+[OpenXR™ SDK](https://github.com/KhronosGroup/OpenXR-SDK) is a Software Development Kit that contains OpenXR headers, as well as source code and build scripts for the OpenXR loader. 
+
 [NVIDIA Flex](https://github.com/NVIDIAGameWorks/FleX) is a particle-based simulation library designed for real-time applications.
 
 [ARToolKit](https://artoolkit.org) is a fast and modern open source tracking and recognition SDK which enables computers to see and understand more in the environment around them. It's built from the ground up using modern computer vision techniques.
