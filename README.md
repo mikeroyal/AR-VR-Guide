@@ -210,7 +210,7 @@ ALVR uses technologies like [Asynchronous Timewarp](https://developer.oculus.com
 
 [OpenHMD](http://www.openhmd.net/) is open source API and drivers that supports a wide range of HMD(head-mounted display) devices such as Oculus Rift, HTC Vive, Sony PSVR, and others.
 
-[openXR](https://www.khronos.org/OpenXR/) is a free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR) collectively known as XR—platforms and devices.
+[StereoKit](https://github.com/StereoKit/StereoKit) is an easy-to-use open source mixed reality library for building HoloLens and VR applications with C# and OpenXR.
 
 [Monado](https://monado.dev/) is the first OpenXR™ runtime for GNU/Linux. Monado aims to jump-start development of an open source XR ecosystem and provide the fundamental building blocks for device vendors to target the GNU/Linux platform.
 
