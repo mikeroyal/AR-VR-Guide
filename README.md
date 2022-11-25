@@ -674,6 +674,8 @@ Reality Pro Headset based on [purported information](https://www.macrumors.com/2
  * [Reality One](https://trademarks.justia.com/975/46/reality-97546126.html)
  * [Reality Processor](https://trademarks.justia.com/975/41/reality-97541320.html)
  * [Mixed Reality Headset GUI's, how to control menus with Eye Tracking & in-air Micro Gesturing](https://www.patentlyapple.com/patently-apple/2021/04/apple-reveals-more-about-mixed-reality-headset-guis-how-to-control-menus-with-eye-tracking-in-air-micro-gesturing.html)
+  * [Apple VR Headset Input System that Detects Various Hand Gestures using Multiple Apple Rings (Patent US 20220365598 A1)](https://www.patentlyapple.com/2022/11/apple-invents-a-vr-headset-input-system-that-detects-various-hand-gestures-using-multiple-apple-rings.html)
+ * [Apple 3D Mapping Technology with 'Multi-Sensor' Longer-Range Depth Mapping ((Patent US 20220364849 A1)](https://www.patentlyapple.com/2022/11/apple-advances-their-3d-mapping-technology-with-multi-sensor-longer-range-depth-mapping.html)
 
  **Apple Headset Specs(subject to change):**
    
