@@ -55,6 +55,8 @@
     * [HTC Vive Headset](https://github.com/mikeroyal/AR-VR-Guide#HTC-Vive-Headset)
   
     * [SteamVR](https://github.com/mikeroyal/AR-VR-Guide#SteamVR)
+    
+    * [Nreal Air AR Glasses](#Nreal-Air-AR-Glasses)
 
     * [Perception Neuron Motion Capture Suit](https://github.com/mikeroyal/AR-VR-Guide#Perception-Neuron-Motion-Capture-Suit)
 
@@ -794,6 +796,22 @@ SteamVR Home
 </p>
 
 Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveindex)
+
+### Nreal Air AR Glasses
+
+[Back to the Top](#table-of-contents)
+
+[Nreal Air AR Glasses & Nreal Adapter](https://www.amazon.com/dp/B0BM4NGK93?th=1) is a pair AR Glasses that you Watch, Stream, and Game on PC, Android, iOS, Nintendo Switch, Steam Deck, Playstation 4|5, Xbox Series X|S, and Cloud Gaming. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/203940311-55756b8b-e5cc-496f-a0a2-9f70177fe2ef.png">
+  <br />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/203940291-35242c5a-3304-469d-b9fa-adf2e36f601d.png">
+  <br />
+</p>
 
 ### Samsung Gear VR Headset
 
