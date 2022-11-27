@@ -718,7 +718,7 @@ Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_micro
 #### RealityOS
 [Back to the Top](#table-of-contents)
 
-[RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by one of Apple's Silicon series chip.
+[RealityOS](https://github.com/apple-oss-distributions/dyld/blob/5c9192436bb195e7a8fe61f22a229ee3d30d8222/common/MachOFile.cpp#L578) will be Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by one of Apple's Silicon series chip. It will have an App Store with apps that include mixed-reality versions of their core Apple apps like **[Messages](https://support.apple.com/messages), [FaceTime](https://support.apple.com/facetime), [Maps](https://www.apple.com/maps/), and AR/VR games from [Apple Arcade](https://www.apple.com/apple-arcade/)**. Along with features such as [Memojis](https://apps.apple.com/us/story/id1445637997) and [SharePlay](https://support.apple.com/guide/iphone/use-shareplay-to-watch-and-listen-together-iphb657eb791/ios) that could be central to the user experience. 
 
 <p align="center">
   <img alt="[realityos" src="https://user-images.githubusercontent.com/45159366/156685090-0bb67294-da7f-4466-9a71-8e8fa36ecfdb.png">
