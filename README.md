@@ -673,6 +673,14 @@ Oculus Quest Pro Controllers. Credit: [Meta](https://www.meta.com/quest/)
 
 Reality Pro Headset based on [purported information](https://www.macrumors.com/2021/02/04/apple-mixed-reality-headset-features-report/) by [Ian Zelbo](https://zelbo.nyc/)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/225845305-d6245035-1220-4219-9927-383d104a1ce0.png">
+  <br />
+  Apple Reality Pro Headset Render
+</p>
+
+ Reality Pro Headset Render based on purported information by [ZONEofTECH](https://www.youtube.com/zoneoftech) and [CConceptCreator](https://twitter.com/CConceptCreator)
+
 **Patents:** 
  
  * [Reality Pro](https://trademarks.justia.com/975/52/reality-97552845.html)
