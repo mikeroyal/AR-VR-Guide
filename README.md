@@ -708,6 +708,9 @@ Reality Pro Headset based on [purported information](https://www.macrumors.com/2
    * Display offers a brightness of 5,000 nits.
    * The color gamut is quoted as DCI > 97% DCI.
    * 96W USB-C poer adpater.
+   * A USB-C port for data transfer.
+   * A proprietary magnetic port(MagSafe) to attach the [battery pack](https://www.amazon.com/Apple-MJWY3AM-A-MagSafe-Battery/dp/B099BWY7WT).
+   * Expected battery life of about **2 hours per pack**.
    * 12 optical cameras for tracking movements, mapping the environment, and projecting visual experiences. 
    * WiFi 6E, which adds 6GHz spectrum to the 2.4GHz & 5GHz bands for increased bandwidth and less device interference.
 
