@@ -1216,6 +1216,12 @@ Valve Index VR Headset. Source: [Steam](https://store.steampowered.com/valveinde
 
 [Leica Photogrammetry Suite (LPS)](https://support.hexagonsafetyinfrastructure.com/infocenter/index?page=product&facRef=LPS&facDisp=Leica%20Photogrammetry%20Suite%20(LPS)&landing=1) is a powerful photogrammetry system that delivers full analytical triangulation, the generation of digital terrain models, orthophoto production, mosaicking, and 3D feature extraction in a user-friendly environment that guarantees results even for photogrammetry novices.
 
+[PhotoCatch](https://apps.apple.com/us/app/photocatch/id1576081762) is the first app for [Apple's Object Capture API](https://developer.apple.com/news/?id=48xhsgu2), enabling anyone to create stunning 3D models in minutes, not days, with no code or 3D experience required.
+
+[PhotoCatch Desktop](https://www.photocatch.app/desktop) is a Professional photogrammetry workstation for exporting beautiful 3D assets ready for Augmented Reality and Visual Effects. It provides performance optimizations for M1 Max and M1 Ultra on MacBook Pro and Mac Studio, so you can process up to 4 3D models at the same time.  
+
+[PhotoCatch Cloud](https://www.photocatch.app/cloud) is a professional service that brings desktop class photogrammetry and 3D editing tools to mobile devices, so you can capture, edit, and share 3D content on-site. It Syncs photo capture with your equipment and use Depth Capture so your 3D models stay the same size as the real world objects.
+
 [Terramodel](https://heavyindustry.trimble.com/products/terramodel) is a powerful software package for the surveyor, civil engineer or contractor who requires a CAD and design package with integrated support for raw survey data.
 
 [MicMac](https://github.com/micmacIGN/micmac) is a free and  open-source photogrammetry software tools for 3D reconstruction.
