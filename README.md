@@ -692,11 +692,7 @@ R1 & M2 chips in the Vision Pro Headset
 </p>
 
 **Patents:** 
- 
- * [Reality Pro](https://trademarks.justia.com/975/52/reality-97552845.html)
- * [Reality One](https://trademarks.justia.com/975/46/reality-97546126.html)
- * [Reality Processor](https://trademarks.justia.com/975/41/reality-97541320.html)
- * [Apple renames its Mixed-Reality Software from realityOS to 'xrOS' aka "Extended Reality OS"](https://www.patentlyapple.com/2022/12/a-new-rumor-points-to-apples-future-extended-reality-headset-operating-system-being-rebanded-xros.html)
+
  * [Mixed Reality Headset GUI's, how to control menus with Eye Tracking & in-air Micro Gesturing](https://www.patentlyapple.com/patently-apple/2021/04/apple-reveals-more-about-mixed-reality-headset-guis-how-to-control-menus-with-eye-tracking-in-air-micro-gesturing.html)
  * [Apple VR Headset Input System that Detects Various Hand Gestures using Multiple Apple Rings (Patent US 20220365598 A1)](https://www.patentlyapple.com/2022/11/apple-invents-a-vr-headset-input-system-that-detects-various-hand-gestures-using-multiple-apple-rings.html)
  * [Apple 3D Mapping Technology with 'Multi-Sensor' Longer-Range Depth Mapping ((Patent US 20220364849 A1)](https://www.patentlyapple.com/2022/11/apple-advances-their-3d-mapping-technology-with-multi-sensor-longer-range-depth-mapping.html)
@@ -713,6 +709,7 @@ R1 & M2 chips in the Vision Pro Headset
    
    * Powered by an M2 chip and **R1 chip(dedicated toward real-time sensor processing for the 12 cameras and 5 sensors on the Vision Pro headset)**.
    * High-resolution 4K micro OLED displays.
+   * Display refresh rate of [90Hz and supports a special 96Hz mode for 24fps video](https://developer.apple.com/videos/play/wwdc2023/10071/?time=143).
    * Display Pixel Size will be between 3000 ppi-4000 ppi.
    * Display offers a brightness of 5,000 nits.
    * The color gamut is quoted as DCI > 97% DCI.
@@ -754,7 +751,7 @@ Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_micro
 #### VisionOS
 [Back to the Top](#table-of-contents)
 
-* [VisionOS](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/) is Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by Apple's Silicon M2 and R1 chips. It will have an App Store with apps that include mixed-reality versions of their core Apple apps like **[Messages](https://support.apple.com/messages), [FaceTime](https://support.apple.com/facetime), [Maps](https://www.apple.com/maps/), and AR/VR games from [Apple Arcade](https://www.apple.com/apple-arcade/)**. Along with features such as [Memojis](https://apps.apple.com/us/story/id1445637997) and [SharePlay](https://support.apple.com/guide/iphone/use-shareplay-to-watch-and-listen-together-iphb657eb791/ios) that could be central to the user experience. 
+* [VisionOS](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/) is Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by Apple's Silicon M2 and R1 chips. It will have an App Store with apps that include mixed-reality versions of their core Apple apps like **[Messages](https://support.apple.com/messages), [FaceTime](https://support.apple.com/facetime), [Maps](https://www.apple.com/maps/), and AR/VR games from [Apple Arcade](https://www.apple.com/apple-arcade/)**. Along with features such as [Memojis](https://apps.apple.com/us/story/id1445637997) and [SharePlay](https://support.apple.com/guide/iphone/use-shareplay-to-watch-and-listen-together-iphb657eb791/ios) that could be central to the user experience.
 
 <p align="center">
  <img src="https://github.com/mikeroyal/Apple-Silicon-Guide/assets/45159366/e1f5d708-87a8-4b45-bfc9-03860cb6ebea">
@@ -762,24 +759,28 @@ Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_micro
  VisionOS
 </p>
 
+ **visionOS Resources**
+ 
+ * [Learn about visionOS](https://developer.apple.com/visionos/learn/)
+ * [Vision Pro compatibility evaluations (available July 2023)](https://d*eveloper.apple.com/visionos/work-with-apple/)
+ * [Vision Pro developer labs (available July 2023)](https://developer.apple.com/visionos/work-with-apple/)
+ * [Vision Pro developer kit (available July 2023)](https://developer.apple.com/visionos/work-with-apple/)
+
+
 #### Apple AR Toolkits and Frameworks
 
 [Back to the Top](#table-of-contents)
 
 * [Reality Composer Pro](https://developer.apple.com/videos/play/wwdc2023/10083/) is a tool that let's you discover how to easily compose, edit, and preview 3D content with Reality Composer Pro. Follow along as we explore this developer tool by setting up a new project, composing scenes, adding particle emitters and audio, and even previewing content on device. 
-
 * [Reality Composer](https://developer.apple.com/augmented-reality/tools/) is a powerful tool that makes it easy for you to create interactive augmented reality experiences with no prior 3D experience. The Reality Converter quickly converts your existing 3D models to [USDZ](https://graphics.pixar.com/usd/files/USDZFileFormatSpecification.pdf) so it works seamlessly in our tools and on all AR-enabled iPhone and iPad devices.
-
+* [Apple Vision](https://developer.apple.com/documentation/vision) is a framework that performs face and face landmark detection, text detection, barcode recognition, image registration, and general feature tracking. Vision also allows the use of custom Core ML models for tasks like classification or object detection.
 * [USDZ](https://graphics.pixar.com/usd/release/spec_usdz.html) is a file format that contains a 3D scene or object saved in the USDZ Universal format, which is developed by Apple and Pixar Animation Studios. It is an uncompressed and unencrypted .ZIP archive that stores a Universal Scene Description (.USD, USDA, or USDC) file, which includes 3D geometry and shading data. USDZ files may also contain .PNG and .JPEG image textures and .M4A, .MP3, or .WAV audio files utilized in the 3D object or scene.
-
 * [ARKit](https://developer.apple.com/augmented-reality/arkit/) is a set set of software development tools to enable developers to build augmented-reality apps for iOS developed by Apple. The latest version ARKit 3.5 takes advantage of the new LiDAR Scanner and depth sensing system on iPad Pro(2020) to support a new generation of AR apps that use Scene Geometry for enhanced scene understanding and object occlusion.
-
 * [RealityKit](https://developer.apple.com/documentation/realitykit) is a framework to implement high-performance 3D simulation and rendering with information provided by the ARKit framework to seamlessly integrate virtual objects into the real world.
-
 * [RealityUI](https://github.com/maxxfrazer/RealityUI) is a Swift Package for creating familiar UI Elements and animations in a RealityKit rendered Augmented Reality or Virtual Reality scene. 
-
 * [SceneKit](https://developer.apple.com/scenekit/) is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your iOS apps.
-
+* [UIKit](https://developer.apple.com/documentation/uikit) is a framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multi-Touch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app.
+* [SwiftUI](https://developer.apple.com/documentation/swiftui) is a user interface toolkit that provides views, controls, and layout structures for declaring your app's user interface. The SwiftUI framework provides event handlers for delivering taps, gestures, and other types of input to your application.
 * [MetalFX](https://developer.apple.com/videos/play/wwdc2022/10103/) is a new API that provides platform optimized graphics effects for Metal applications. With MetalFX Upscaling, your application can now render frames at a lower resolution, reducing rendering time, without compromising rendering quality. We'll also show you how and when to use its two effects: spatial upscaling, which delivers substantial performance gains, and temporal AA and upscaling, which delivers the highest quality rendering.
 
 <p align="center">
@@ -789,9 +790,7 @@ Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_micro
 </p>
 
 * [Apple Core Animation Framework](https://developer.apple.com/documentation/quartzcore) is a graphics rendering and animation infrastructure that provides high frame rates and smooth animations without burdening the CPU and slowing down your app.
-
 * [Apple Core Graphics Framework](https://developer.apple.com/documentation/coregraphics)is a framework based on the Quartz advanced drawing engine. It provides low-level, lightweight 2D rendering with unmatched output fidelity.
-
 * [GPUImage3](https://github.com/BradLarson/GPUImage3) is the third generation of the [GPUImage framework](https://github.com/BradLarson/GPUImage), an open source project for performing GPU-accelerated image and video processing on Mac and iOS. The original GPUImage framework was written in Objective-C and targeted Mac and iOS, the second iteration rewritten in Swift using OpenGL to target Mac, iOS, and Linux, and now this third generation is redesigned to use [Apple's Metal](https://developer.apple.com/metal/) in place of OpenGL.
 
 
