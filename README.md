@@ -764,6 +764,7 @@ Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_micro
 
  **visionOS Resources**
  
+ * [visionOS SDK](https://developer.apple.com/visionos/)
  * [Learn about visionOS](https://developer.apple.com/visionos/learn/)
  * [Vision Pro compatibility evaluations (available July 2023)](https://d*eveloper.apple.com/visionos/work-with-apple/)
  * [Vision Pro developer labs (available July 2023)](https://developer.apple.com/visionos/work-with-apple/)
