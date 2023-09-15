@@ -757,9 +757,9 @@ Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_micro
 * [VisionOS](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/) is Apple's iOS-like operating system for their upcoming AR/VR (Augmented Reality/Virtual Reality) headset powered by Apple's Silicon M2 and R1 chips. It will have an App Store with apps that include mixed-reality versions of their core Apple apps like **[Messages](https://support.apple.com/messages), [FaceTime](https://support.apple.com/facetime), [Maps](https://www.apple.com/maps/), and AR/VR games from [Apple Arcade](https://www.apple.com/apple-arcade/)**. Along with features such as [Memojis](https://apps.apple.com/us/story/id1445637997) and [SharePlay](https://support.apple.com/guide/iphone/use-shareplay-to-watch-and-listen-together-iphb657eb791/ios) that could be central to the user experience.
 
 <p align="center">
- <img src="https://github.com/mikeroyal/Apple-Silicon-Guide/assets/45159366/e1f5d708-87a8-4b45-bfc9-03860cb6ebea">
+ <img src="https://github.com/mikeroyal/AR-VR-Guide/assets/45159366/64e79c9b-5a8c-4a00-8cf9-15b48c33e0c2">
   <br />
- VisionOS
+ VisionOS. Image Credit: Apple
 </p>
 
  **visionOS Resources**
@@ -807,9 +807,10 @@ Credit: [Sony](https://www.sony.com/en/SonyInfo/research/technologies/OLED_micro
 </p>
 
 * [Apple Core Animation Framework](https://developer.apple.com/documentation/quartzcore) is a graphics rendering and animation infrastructure that provides high frame rates and smooth animations without burdening the CPU and slowing down your app.
-* [Apple Core Graphics Framework](https://developer.apple.com/documentation/coregraphics)is a framework based on the Quartz advanced drawing engine. It provides low-level, lightweight 2D rendering with unmatched output fidelity.
+* [Apple Core Graphics Framework](https://developer.apple.com/documentation/coregraphics) is a framework based on the Quartz advanced drawing engine. It provides low-level, lightweight 2D rendering with unmatched output fidelity.
 * [GPUImage3](https://github.com/BradLarson/GPUImage3) is the third generation of the [GPUImage framework](https://github.com/BradLarson/GPUImage), an open source project for performing GPU-accelerated image and video processing on Mac and iOS. The original GPUImage framework was written in Objective-C and targeted Mac and iOS, the second iteration rewritten in Swift using OpenGL to target Mac, iOS, and Linux, and now this third generation is redesigned to use [Apple's Metal](https://developer.apple.com/metal/) in place of OpenGL.
-
+* [Unity AR Foundation](https://unity.com/unity/features/arfoundation) is a framework purpose-built for augmented reality development that allows you to build rich experiences once, then deploy across multiple mobile and wearable AR devices.
+* [Universal Render Pipeline (URP)](https://docs.unity3d.com/Manual/universal-render-pipeline.html) is a prebuilt Scriptable Render Pipeline, made by Unity. It provides artist-friendly workflows that let you quickly and easily create optimized graphics across a range of platforms, from mobile to high-end consoles and PCs.
 
 ### HTC Vive Headset
 [Back to the Top](#table-of-contents)
