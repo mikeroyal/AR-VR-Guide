@@ -48,10 +48,12 @@
     * [Oculus Quest Headsets](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Quest-headsets)
        
        * [Oculus Developer Tools](https://github.com/mikeroyal/AR-VR-Guide#Oculus-Developer-Tools)
-    
-       * [Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Quest-2)
+         
+       * [Meta Quest 3](#meta-quest-3)
+         
+       * [Meta Quest 2](https://github.com/mikeroyal/AR-VR-Guide#Quest-2)
        
-       * [Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Quest-Pro)
+       * [Meta Quest Pro](https://github.com/mikeroyal/AR-VR-Guide#Quest-Pro)
     
     * [Apple Vision Pro Headset](https://github.com/mikeroyal/AR-VR-Guide#apple-vision-pro-headset)
 
@@ -610,6 +612,47 @@ PlayStation VR 2 Headset. Source: [PlayStation](https://www.playstation.com/en-u
 [Gravity Sketch](https://www.oculus.com/experiences/quest/1587090851394426) is a 3D design and collaboration tool that enables you to create vehicles, sneakers, furniture, characters, art, and more. Express your ideas with 3D strokes and geometry; solve complex design challenges working directly in 3D at any scale, all with a fun and intuitive toolset that makes working in 3D easy. 
 
 [Immersed](https://www.oculus.com/experiences/quest/2849273531812512) is a free app for multiple virtual screens in VR for Mac/PC/Linux (with no extra hardware) in stunning virtual worlds. It's great for solo work with multiple screens in a virtual coffee shop, or for collaborating with your team around even more screens and whiteboards.
+
+#### Meta Quest 3
+
+[Back to the Top](#table-of-contents)
+
+[Checkout the Meta Quest 3 (Available October 10th)](https://www.meta.com/quest/quest-3/) 
+
+<p align="center">
+ <img src="https://github.com/mikeroyal/AR-VR-Guide/assets/45159366/76d1ff02-1d4b-412a-aca4-fe4a0ccecf1c">
+</br>
+Meta Quest 3 Mixed Reality headset
+</p>
+
+**Hardware Specs:**
+
+* **CPU:** Snapdragon XR2 "Gen 2" chipset (double the GPU processing power of the Meta Quest 2).
+* **RAM:** 8GB.
+* **Display Resolution:** 2064x2208 pixels per eye nearly 30% better than the Meta Quest 2.
+* **Field of View (FOV):** 110 degrees horizontal and 96 degrees vertical. 
+* **Refresh Rate:** 90Hz, 120Hz (experimental). 
+* **Wi-Fi:** Wi-Fi 6E enabled (region permitting). 
+
+**Price:**
+
+* $499 for a 128GB model.
+* $649 for a 512GB model.
+
+**Battery Life:**
+
+* Up to 2.2 hours of usage on average. 
+* Gaming: 2.4 hours of usage on average.
+* Social: 2.2 hours of usage on average. 
+* Productivity: 1.5 hours of usage on average.
+* Media: 2.9 hours of usage on average.
+* Charging Time: Approximately 2.3 hours with the included 18W power adapter (headset only). 
+
+**Privacy Options**
+
+* **External LED:** Signal notifies bystanders that the external cameras are in use.
+* **Data Protection:** Advanced encryption plus customized settings include data sharing opt-in/opt-out, electronic mic/camera disconnect and password/PIN protection to let multiple users explore safely. 
+
 
 #### Quest 2
 [Back to the Top](#table-of-contents)
